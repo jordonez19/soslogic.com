@@ -1,0 +1,6139 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Crete Core\n"
+"POT-Creation-Date: 2024-03-25 19:56+0600\n"
+"PO-Revision-Date: 2024-03-25 19:56+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: crete-core.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-crete-core-admin.php:154
+msgid "Crete Saas Landing Page WordPress Theme Developed by"
+msgstr ""
+
+#. Author of the plugin/theme
+#: admin/class-crete-core-admin.php:154
+msgid "Teconce"
+msgstr ""
+
+#: admin/class-crete-core-admin.php:154
+msgid " "
+msgstr ""
+
+#: elementor/class-elementor-main.php:71
+msgid "Crete Elements"
+msgstr ""
+
+#: elementor/class-elementor-main.php:79
+msgid "Crete Onepage Element"
+msgstr ""
+
+#: elementor/inc/crete-custom-icon.php:1862
+msgid "Icosax Icons"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:45
+msgid "Crete:: Common"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:54
+msgid "Name"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:56
+msgid "Enter section name"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:70
+msgid "Background Overlay color"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:85
+msgid "Custom Gradient"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:103
+msgid "Overlay opacity"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:119
+msgid "Display overlay over content"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:123
+#: elementor/inc/crete-elementor-section.php:362
+#: elementor/inc/crete-elementor-section.php:385
+#: elementor/inc/crete-elementor-section.php:523
+#: elementor/inc/crete-elementor-section.php:537
+#: elementor/inc/crete-elementor-section.php:594
+#: elementor/inc/crete-elementor-section.php:646
+#: elementor/inc/crete-elementor-section.php:699
+#: elementor/inc/crete-elementor-section.php:816
+#: elementor/inc/crete-elementor-section.php:830
+#: elementor/inc/crete-elementor-section.php:889
+#: elementor/inc/crete-elementor-section.php:942
+#: elementor/inc/crete-elementor-section.php:995
+#: elementor/inc/sassplate-custom-bg.php:77
+#: elementor/inc/sassplate-custom-bg.php:88
+#: elementor/widgets/crete-accordion.php:83
+#: elementor/widgets/crete-countdown.php:190 library/crete-nav-options.php:158
+msgid "No"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:127
+#: elementor/inc/crete-elementor-section.php:361
+#: elementor/inc/crete-elementor-section.php:384
+#: elementor/inc/crete-elementor-section.php:522
+#: elementor/inc/crete-elementor-section.php:536
+#: elementor/inc/crete-elementor-section.php:593
+#: elementor/inc/crete-elementor-section.php:645
+#: elementor/inc/crete-elementor-section.php:698
+#: elementor/inc/crete-elementor-section.php:815
+#: elementor/inc/crete-elementor-section.php:829
+#: elementor/inc/crete-elementor-section.php:888
+#: elementor/inc/crete-elementor-section.php:941
+#: elementor/inc/crete-elementor-section.php:994
+#: elementor/inc/sassplate-custom-bg.php:76
+#: elementor/inc/sassplate-custom-bg.php:87
+#: elementor/widgets/crete-accordion.php:82
+#: elementor/widgets/crete-countdown.php:189
+msgid "Yes"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:149
+#: elementor/inc/crete-elementor-section.php:253
+msgid "Shadow Style"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:180
+#: elementor/inc/crete-elementor-section.php:284
+msgid "Shadow Hover Style"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:211
+#: elementor/inc/crete-elementor-section.php:316
+msgid "Hover Animation"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:359
+msgid "Sticky box on the top"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:382
+msgid "Use Gradient"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:393
+msgid "Layer color"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:401
+msgid "Layer color 2"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:422
+msgid "Crete:: Top Dividers"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:441
+#: elementor/inc/crete-elementor-section.php:761
+msgid "Divider shape"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:453
+msgid "top Dividers"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:500
+#: elementor/inc/crete-elementor-section.php:793
+msgid "The number of Layers"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:520
+#: elementor/inc/crete-elementor-section.php:813
+msgid "Bring the divider in front of the content"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:534
+#: elementor/inc/crete-elementor-section.php:827
+msgid "Flip the divider"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:548
+#: elementor/inc/crete-elementor-section.php:842
+msgid "Divider custom height (Optional)"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:551
+#: elementor/inc/crete-elementor-section.php:845
+msgid "With unit, e.g: 200px"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:581
+#: elementor/inc/crete-elementor-section.php:875
+msgid "Layer 1"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:591
+#: elementor/inc/crete-elementor-section.php:886
+msgid "Use gradient for the first layer"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:605
+#: elementor/inc/crete-elementor-section.php:900
+msgid "Layer 1 color"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:616
+#: elementor/inc/crete-elementor-section.php:911
+msgid "Layer 1 second gradient color"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:632
+#: elementor/inc/crete-elementor-section.php:928
+msgid "Layer 2"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:643
+#: elementor/inc/crete-elementor-section.php:939
+msgid "Use gradient for the second layer"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:657
+#: elementor/inc/crete-elementor-section.php:953
+msgid "Layer 2 color"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:668
+#: elementor/inc/crete-elementor-section.php:964
+msgid "Layer 2 second gradient color"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:685
+#: elementor/inc/crete-elementor-section.php:982
+msgid "Layer 3"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:696
+#: elementor/inc/crete-elementor-section.php:992
+msgid "Use gradient for the third layer"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:707
+#: elementor/inc/crete-elementor-section.php:1003
+msgid "Layer 3 color"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:718
+#: elementor/inc/crete-elementor-section.php:1014
+msgid "Layer 3 second gradient color"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:745
+msgid "Crete:: Bottom Dividers"
+msgstr ""
+
+#: elementor/inc/crete-elementor-section.php:775
+msgid "Bottom Dividers"
+msgstr ""
+
+#: elementor/inc/crete_blog_widgets_functions.php:25
+#: elementor/inc/crete_blog_widgets_functions.php:120
+msgid "By "
+msgstr ""
+
+#: elementor/inc/crete_blog_widgets_functions.php:29
+#: elementor/inc/crete_blog_widgets_functions.php:84
+#: elementor/inc/crete_blog_widgets_functions.php:125
+msgid "Read More"
+msgstr ""
+
+#: elementor/inc/crete_blog_widgets_functions.php:213
+msgid "By"
+msgstr ""
+
+#: elementor/inc/gradient-control.php:93
+msgid "Preview"
+msgstr ""
+
+#: elementor/inc/gradient-control.php:98
+msgid "Gradient CSS output"
+msgstr ""
+
+#: elementor/inc/sassplate-custom-bg.php:40
+msgid "Crete :: Custom Background"
+msgstr ""
+
+#: elementor/inc/sassplate-custom-bg.php:47
+msgid "Dark Mode Type"
+msgstr ""
+
+#: elementor/inc/sassplate-custom-bg.php:51
+msgid "Dark"
+msgstr ""
+
+#: elementor/inc/sassplate-custom-bg.php:52
+msgid "Dark Alter Color"
+msgstr ""
+
+#: elementor/inc/sassplate-custom-bg.php:53
+msgid "Dark Sticky Bg Color"
+msgstr ""
+
+#: elementor/inc/sassplate-custom-bg.php:54
+#: elementor/inc/sassplate-custom-bg.php:66
+#: library/codestar/fields/border/border.php:59
+#: library/codestar/fields/typography/typography.php:199
+#: library/codestar/fields/typography/typography.php:213
+msgid "None"
+msgstr ""
+
+#: elementor/inc/sassplate-custom-bg.php:61
+msgid "Dark Mode Inner Background"
+msgstr ""
+
+#: elementor/inc/sassplate-custom-bg.php:65
+#: elementor/library/sticky-header/modules/transparent/module.php:36
+#: elementor/widgets/crete-service-grid.php:301
+msgid "Enable"
+msgstr ""
+
+#: elementor/inc/sassplate-custom-bg.php:73
+msgid "Enable Code Background"
+msgstr ""
+
+#: elementor/inc/sassplate-custom-bg.php:84 library/crete-cpt.php:58
+#: library/crete-cpt.php:154 library/crete-cpt.php:367
+#: library/crete-cpt.php:426
+msgid "Featured Image"
+msgstr ""
+
+#: elementor/inc/sassplate-custom-bg.php:95
+msgid "Custom HTML"
+msgstr ""
+
+#: elementor/library/sticky-header/base/module-base.php:33
+#: elementor/library/sticky-header/base/module-base.php:44
+#: elementor/library/sticky-header/plugin.php:44
+#: elementor/library/sticky-header/plugin.php:55
+#: elementor/library/template-library/index.php:39
+#: elementor/library/template-library/index.php:44
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:28
+#: elementor/library/sticky-header/plugin.php:133
+msgid "Crete Sticky Header"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:38
+#: elementor/library/sticky-header/modules/transparent/module.php:124
+#: elementor/library/sticky-header/modules/transparent/module.php:169
+#: elementor/library/sticky-header/modules/transparent/module.php:201
+#: elementor/library/sticky-header/modules/transparent/module.php:256
+#: elementor/library/sticky-header/modules/transparent/module.php:271
+#: elementor/library/sticky-header/modules/transparent/module.php:313
+#: elementor/library/sticky-header/modules/transparent/module.php:356
+#: elementor/library/sticky-header/modules/transparent/module.php:409
+#: elementor/library/sticky-header/modules/transparent/module.php:434
+#: elementor/library/sticky-header/modules/transparent/module.php:474
+#: elementor/library/sticky-header/modules/transparent/module.php:499
+#: elementor/library/sticky-header/modules/transparent/module.php:524
+#: elementor/library/sticky-header/modules/transparent/module.php:551
+#: elementor/library/sticky-header/modules/transparent/module.php:569
+#: library/codestar/fields/switcher/switcher.php:20
+msgid "On"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:39
+#: elementor/library/sticky-header/modules/transparent/module.php:125
+#: elementor/library/sticky-header/modules/transparent/module.php:170
+#: elementor/library/sticky-header/modules/transparent/module.php:202
+#: elementor/library/sticky-header/modules/transparent/module.php:257
+#: elementor/library/sticky-header/modules/transparent/module.php:272
+#: elementor/library/sticky-header/modules/transparent/module.php:314
+#: elementor/library/sticky-header/modules/transparent/module.php:357
+#: elementor/library/sticky-header/modules/transparent/module.php:410
+#: elementor/library/sticky-header/modules/transparent/module.php:435
+#: elementor/library/sticky-header/modules/transparent/module.php:475
+#: elementor/library/sticky-header/modules/transparent/module.php:500
+#: elementor/library/sticky-header/modules/transparent/module.php:525
+#: elementor/library/sticky-header/modules/transparent/module.php:552
+#: elementor/library/sticky-header/modules/transparent/module.php:570
+#: library/codestar/fields/switcher/switcher.php:21
+msgid "Off"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:50
+msgid ""
+"IMPORTANT: This plugin does NOT control the sticky position of the header. "
+"Please use the above Motion Effects tab sticky options to make the header "
+"sticky"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:63
+msgid "Enable On"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:69
+msgid "Desktop"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:70
+msgid "Tablet"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:71
+msgid "Mobile"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:77
+msgid ""
+"This will completely enable/disable ALL settings for each option except for "
+"sticky settings. Sticky settings can be found under the motion effects tab "
+"above"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:86
+#: elementor/library/sticky-header/modules/transparent/module.php:585
+msgid "Scroll Distance (px)"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:98
+msgid "Choose the scroll distance to enable Crete Sticky Header"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:109
+msgid ""
+"Remember: The settings below will not be applied until the page is scrolled "
+"the distance set above"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:121
+msgid "Transparent Header"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:132
+msgid ""
+"Sets the header position to \"absolute\" so negative margins are not needed"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:139
+msgid ""
+"IMPORTANT: This will make the header overlap the main page so extra spacing "
+"at the top of sections may be necesary. **May only work on frontend"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:152
+msgid "Above Header Sections"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:153
+msgid ""
+"<br>\"Scroll Distance\" settings and Elementor \"Motion Effects > Offset\" "
+"settings should be set to the height of any section above the header."
+"<br>Example: Above header section min-height = 60px. Set both scroll "
+"distance and motion effects offset to 60px"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:166
+msgid "Background Color"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:177
+msgid "Choose what color to change the background to after scrolling"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:184
+#: elementor/library/sticky-header/modules/transparent/module.php:217
+#: library/codestar/fields/background/background.php:278
+msgid "Color"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:198
+msgid "Bottom Border"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:209
+msgid "Choose bottom border size and color"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:231
+msgid "Bottom Border Thickness (px)"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:254
+msgid "Shadow"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:268
+msgid "Shrink Header"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:276
+msgid "Choose header height after scrolling"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:286
+msgid "Header Height (px)"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:298
+msgid ""
+"Remember: The header cannot shrink smaller than the elements inside of it"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:310
+msgid "Shrink Logo"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:318
+msgid "Choose logo height after scrolling"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:328
+msgid "Logo Height(%)"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:353
+msgid "Change Logo Color"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:361
+msgid ""
+"Change the logo image color before or after the user reaches the scroll "
+"distance set above"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:373
+msgid ""
+"Note: These settings will override the CSS filters set under the logo style "
+"tab and might only work on the frontend"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:394
+msgid "Before scrolling"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:407
+#: elementor/library/sticky-header/modules/transparent/module.php:472
+msgid "White Logo"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:414
+#: elementor/library/sticky-header/modules/transparent/module.php:479
+msgid "Change the logo to white"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:432
+#: elementor/library/sticky-header/modules/transparent/module.php:497
+msgid "Black Logo"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:439
+#: elementor/library/sticky-header/modules/transparent/module.php:504
+msgid "Change the logo to black"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:459
+msgid "After Scrolling"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:522
+msgid "Full Color Logo"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:529
+msgid "Removes all filters to allow a full color logo image"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:548
+msgid "Blur Background"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:559
+msgid ""
+"Add a modern blur effect to a semi-transparent header background color after "
+"scrolling"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:566
+msgid "Hide header on scroll down"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:574
+msgid "Hides the header if scrolling down, and shows header if scrolling up"
+msgstr ""
+
+#: elementor/library/sticky-header/modules/transparent/module.php:597
+msgid "Choose the scroll distance to start hiding the header"
+msgstr ""
+
+#: elementor/library/sticky-header/xpsc-elementor.php:57
+msgid ""
+"Crete Sticky Header not working because you need to activate the Elementor "
+"plugin."
+msgstr ""
+
+#: elementor/library/sticky-header/xpsc-elementor.php:58
+msgid "Activate Elementor Now"
+msgstr ""
+
+#: elementor/library/sticky-header/xpsc-elementor.php:66
+msgid ""
+"Crete Sticky Header is not working because you need to install the Elementor "
+"plugin"
+msgstr ""
+
+#: elementor/library/sticky-header/xpsc-elementor.php:67
+msgid "Install Elementor Now"
+msgstr ""
+
+#: elementor/library/sticky-header/xpsc-elementor.php:81
+msgid ""
+"Crete Sticky Header not working because you are using an old version of "
+"Elementor."
+msgstr ""
+
+#: elementor/library/sticky-header/xpsc-elementor.php:82
+#: elementor/library/sticky-header/xpsc-elementor.php:96
+msgid "Update Elementor Now"
+msgstr ""
+
+#: elementor/library/sticky-header/xpsc-elementor.php:95
+msgid ""
+"A new version of Elementor is available. For better performance and "
+"compatibility of Crete Sticky Header, we recommend updating to the latest "
+"version."
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:23
+msgid "Crete About Story"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:42
+msgid "Crete About Story Tab"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:49
+msgid "Crete About StoryStyle"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:53
+#: elementor/widgets/crete-brand-slider.php:53
+#: elementor/widgets/crete-contact.php:53
+#: elementor/widgets/crete-countdown.php:53
+#: elementor/widgets/crete-info-section-two.php:73
+#: elementor/widgets/crete-info-section.php:49
+#: elementor/widgets/crete-pricing-table.php:146
+#: elementor/widgets/crete-project.php:54
+msgid "Style One"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:54
+#: elementor/widgets/crete-brand-slider.php:54
+#: elementor/widgets/crete-contact.php:54
+#: elementor/widgets/crete-countdown.php:54
+#: elementor/widgets/crete-info-section-two.php:74
+#: elementor/widgets/crete-info-section.php:50
+#: elementor/widgets/crete-pricing-table.php:147
+#: elementor/widgets/crete-project.php:55
+msgid "Style Two"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:63
+msgid "Crete About education/experience on/off"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:65
+#: elementor/widgets/crete-info-section-two.php:311
+#: elementor/widgets/crete-service-grid.php:118
+#: elementor/widgets/crete-testimonial.php:291
+msgid "Show"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:66
+#: elementor/widgets/crete-info-section-two.php:312
+#: elementor/widgets/crete-service-grid.php:119
+#: elementor/widgets/crete-testimonial.php:292
+msgid "Hide"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:78
+msgid "Crete About Story Left Content"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:90
+msgid "Crete About Story TItle"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:92
+msgid "About My Story"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:98
+msgid "Crete About Story Sub TItle"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:100
+msgid ""
+"My name is Adam Smith. I have been studying UI/UX Design since October 2020. "
+"I like creating a cool design project."
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:106
+msgid "Crete About Story Decription"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:108
+msgid ""
+"Donec imperdiet risus or consequat maximus et eget magna ras ornare sagittis "
+"augue, id sollicitudin justo tristique ut. Nullam ex enim euismod bibendum "
+"ultrices, fringilla vel eros. Donec euismod leo lectus euismod metus euismod "
+"sed. Quisque quis suscipit ipsum\n"
+"\n"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:116
+msgid "Crete About Story Button Text"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:118
+msgid "View Latest Work"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:124
+msgid "Crete About Story Link"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:126
+#: elementor/widgets/crete-about.php:168
+#: elementor/widgets/crete-appointment.php:168
+#: elementor/widgets/crete-button.php:73
+#: elementor/widgets/crete-contact-info-box.php:105
+#: elementor/widgets/crete-hero.php:326 elementor/widgets/crete-hero.php:364
+#: elementor/widgets/crete-info-section-two.php:229
+#: elementor/widgets/crete-info-section.php:254
+#: elementor/widgets/crete-info-section.php:280
+#: elementor/widgets/crete-service-grid.php:184
+#: elementor/widgets/crete-video-box.php:103
+msgid "https://your-link.com"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:140
+msgid "Crete About Story Experience Section"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:147
+msgid "Experience Title Name"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:149
+msgid "Experience"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:159
+msgid "Experience Title"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:161
+msgid "Senior Product Manager"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:168
+#: elementor/widgets/crete-experince.php:62
+msgid "Company Name"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:170
+msgid "Amar Bazar Ltd. Full-time"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:177
+msgid "Experience Date"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:179
+#: elementor/widgets/crete-about-story.php:254
+msgid "2016-2022 "
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:187
+msgid "Experience List"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:192
+msgid "Experience One"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:197
+msgid "Experience Two"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:202
+msgid "Experience Three"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:215
+msgid "Crete About Story Education Section"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:222
+msgid "Education Title Name"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:224
+msgid "Education"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:234
+msgid "Education Title"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:236
+#: elementor/widgets/crete-info-section.php:349
+msgid "Secondary School Certificate"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:243
+msgid "Education Name"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:245
+#: elementor/widgets/crete-info-section.php:339
+msgid "Amar Bazar High School"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:252
+msgid "Education Date"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:262
+#: elementor/widgets/crete-about-story.php:331
+msgid "Education List"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:267
+msgid "Education One"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:272
+msgid "Education Two"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:277
+msgid "Education Three"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:290
+msgid "Crete About Story Brand Style"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:301
+msgid "Brand Title"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:303
+#: elementor/widgets/crete-skill-slider.php:54
+#: elementor/widgets/crete-skill-slider.php:97
+msgid "Figma"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:310
+msgid "Choose Brand Logo"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:321
+msgid " Performance Count"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:323
+msgid "100"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:336
+msgid "Brand One"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:341
+msgid "Brand Two"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:346
+msgid "Brand Three"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:351
+msgid "Brand Four"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:356
+msgid "Brand Five"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:361
+msgid "Brand Six"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:375
+msgid "Crete About Story Left Content Style"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:386
+#: elementor/widgets/crete-about-story.php:404
+#: elementor/widgets/crete-button.php:212
+#: elementor/widgets/crete-button.php:272
+#: library/extension/sp-night-mode/admin/class-sp-night-mode-admin.php:399
+msgid "Text Color"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:397
+msgid "Text Color Typography"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:415
+msgid "Sub Text  Typography"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:422
+msgid "Decription Color"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:433
+msgid "Decription  Typography"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:440
+msgid "Button Color"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:451
+msgid "Button  Typography"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:458
+msgid "Button Background Color"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:468
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:480
+msgid "Education & Experience Style"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:488
+msgid "Education Experience Main Title Color"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:499
+msgid "Education Experience Main Typography  "
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:506
+msgid "Education Experience Main Background"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:517
+msgid "Education Experience Main Background Active"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:532
+msgid "Experience & Education Box Style"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:538
+msgid "Education Experience Box Hover Background color"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:552
+msgid "Experience Title Color"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:563
+msgid " Experience Title Typography "
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:570
+msgid "Experience Type color"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:581
+msgid " Experience Type  Typography "
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:588
+#: elementor/widgets/crete-about-story.php:620
+msgid "Experience Date Color"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:599
+#: elementor/widgets/crete-about-story.php:631
+#: elementor/widgets/crete-about-story.php:649
+msgid " Experience Date Typography"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:613
+msgid "Crete About Story Brand Section Style"
+msgstr ""
+
+#: elementor/widgets/crete-about-story.php:638
+msgid "Experience Parfomance Color"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:21
+msgid "Crete About"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:37
+#: elementor/widgets/crete-appointment.php:37
+msgid "About Content"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:44
+#: elementor/widgets/crete-appointment.php:44
+#: elementor/widgets/crete-hero.php:263
+#: elementor/widgets/crete-team-promo.php:73
+#: elementor/widgets/crete-team.php:45
+msgid "Sub Heading"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:47
+#: elementor/widgets/crete-appointment.php:47
+msgid "About Our Company"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:48 elementor/widgets/crete-about.php:58
+#: elementor/widgets/crete-about.php:68 elementor/widgets/crete-about.php:233
+#: elementor/widgets/crete-about.php:243 elementor/widgets/crete-about.php:253
+#: elementor/widgets/crete-about.php:273 elementor/widgets/crete-about.php:283
+#: elementor/widgets/crete-about.php:293
+#: elementor/widgets/crete-appointment.php:48
+#: elementor/widgets/crete-appointment.php:58
+#: elementor/widgets/crete-appointment.php:68
+#: elementor/widgets/crete-appointment.php:233
+#: elementor/widgets/crete-appointment.php:243
+#: elementor/widgets/crete-appointment.php:253
+#: elementor/widgets/crete-appointment.php:273
+#: elementor/widgets/crete-appointment.php:283
+#: elementor/widgets/crete-appointment.php:293
+#: elementor/widgets/crete-blog.php:112 elementor/widgets/crete-blog.php:122
+#: elementor/widgets/crete-brand-slider.php:68
+#: elementor/widgets/crete-brand-slider.php:82
+#: elementor/widgets/crete-brand-slider.php:95
+#: elementor/widgets/crete-countdown.php:67
+#: elementor/widgets/crete-countdown.php:80
+#: elementor/widgets/crete-countdown.php:93
+#: elementor/widgets/crete-countdown.php:107
+#: elementor/widgets/crete-countdown.php:120
+#: elementor/widgets/crete-hero.php:248 elementor/widgets/crete-hero.php:267
+#: elementor/widgets/crete-hero.php:280 elementor/widgets/crete-hero.php:318
+#: elementor/widgets/crete-hero.php:356
+#: elementor/widgets/crete-info-section-two.php:97
+#: elementor/widgets/crete-info-section-two.php:115
+#: elementor/widgets/crete-info-section-two.php:125
+#: elementor/widgets/crete-info-section-two.php:134
+#: elementor/widgets/crete-info-section-two.php:152
+#: elementor/widgets/crete-info-section-two.php:163
+#: elementor/widgets/crete-info-section-two.php:193
+#: elementor/widgets/crete-info-section-two.php:203
+#: elementor/widgets/crete-info-section-two.php:221
+#: elementor/widgets/crete-info-section-two.php:267
+#: elementor/widgets/crete-info-section.php:119
+#: elementor/widgets/crete-info-section.php:140
+#: elementor/widgets/crete-info-section.php:155
+#: elementor/widgets/crete-info-section.php:167
+#: elementor/widgets/crete-info-section.php:179
+#: elementor/widgets/crete-info-section.php:193
+#: elementor/widgets/crete-info-section.php:205
+#: elementor/widgets/crete-info-section.php:233
+#: elementor/widgets/crete-info-section.php:245
+#: elementor/widgets/crete-info-section.php:271
+#: elementor/widgets/crete-pricing-table.php:53
+#: elementor/widgets/crete-pricing-table.php:63
+#: elementor/widgets/crete-pricing-table.php:74
+#: elementor/widgets/crete-pricing-table.php:88
+#: elementor/widgets/crete-pricing-table.php:102
+#: elementor/widgets/crete-pricing-table.php:116
+#: elementor/widgets/crete-project-filter.php:54
+#: elementor/widgets/crete-project-filter.php:64
+#: elementor/widgets/crete-project-filter.php:98
+#: elementor/widgets/crete-project.php:68
+#: elementor/widgets/crete-project.php:78
+#: elementor/widgets/crete-service-grid.php:68
+#: elementor/widgets/crete-service-grid.php:78
+#: elementor/widgets/crete-service-grid.php:101
+#: elementor/widgets/crete-team-promo.php:77
+#: elementor/widgets/crete-team-promo.php:87
+#: elementor/widgets/crete-team-promo.php:97
+#: elementor/widgets/crete-team-promo.php:137
+#: elementor/widgets/crete-team.php:49 elementor/widgets/crete-team.php:59
+#: elementor/widgets/crete-team.php:69
+#: elementor/widgets/crete-testimonial.php:101
+#: elementor/widgets/crete-testimonial.php:111
+#: elementor/widgets/crete-testimonial.php:121
+#: elementor/widgets/crete-testimonial.php:134
+#: elementor/widgets/crete-testimonial.php:178
+#: elementor/widgets/crete-testimonial.php:265
+#: elementor/widgets/crete-testimonial.php:275
+#: elementor/widgets/crete-video-box.php:75
+msgid "Type your title here"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:54
+#: elementor/widgets/crete-appointment.php:54
+#: elementor/widgets/crete-hero.php:276
+#: elementor/widgets/crete-team-promo.php:83
+#: elementor/widgets/crete-team.php:55
+msgid "Heading"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:57
+#: elementor/widgets/crete-appointment.php:57
+msgid "About Create"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:64
+#: elementor/widgets/crete-appointment.php:64
+#: elementor/widgets/crete-team-promo.php:93
+#: elementor/widgets/crete-team.php:65
+msgid "Special Heading"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:67
+#: elementor/widgets/crete-appointment.php:67
+msgid "Agency"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:75
+#: elementor/widgets/crete-appointment.php:75
+msgid "Tab Content"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:83
+#: elementor/widgets/crete-appointment.php:83
+msgid "Reverse Row"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:87
+#: elementor/widgets/crete-appointment.php:87
+#: elementor/widgets/crete-info-section-two.php:49
+msgid "Reverce "
+msgstr ""
+
+#: elementor/widgets/crete-about.php:91 elementor/widgets/crete-about.php:582
+#: elementor/widgets/crete-appointment.php:91
+#: elementor/widgets/crete-appointment.php:582
+#: elementor/widgets/crete-button.php:206 elementor/widgets/crete-hero.php:608
+#: elementor/widgets/crete-hero.php:717
+#: elementor/widgets/crete-info-section-two.php:53
+#: elementor/widgets/crete-info-section-two.php:597
+#: elementor/widgets/crete-info-section.php:69
+#: elementor/widgets/crete-info-section.php:650
+#: elementor/widgets/crete-video-box.php:267
+#: library/codestar/fields/background/background.php:270
+#: library/codestar/fields/link_color/link_color.php:36
+#: library/codestar/fields/typography/typography.php:186
+#: library/crete-nav-options.php:159
+#: library/theme-options/extends/custom-color-group.php:36
+msgid "Normal"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:101
+#: elementor/widgets/crete-appointment.php:101
+msgid "Tab Title"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:103 elementor/widgets/crete-about.php:304
+#: elementor/widgets/crete-appointment.php:103
+#: elementor/widgets/crete-appointment.php:304
+msgid "About Company"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:110
+#: elementor/widgets/crete-appointment.php:110
+msgid "Tab Image"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:120
+#: elementor/widgets/crete-appointment.php:120
+msgid "Tab Subtitle"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:122
+#: elementor/widgets/crete-appointment.php:122
+msgid "More About Our Company"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:130
+#: elementor/widgets/crete-appointment.php:130
+msgid "Tab Heading"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:132
+#: elementor/widgets/crete-appointment.php:132
+msgid "We Build Software Solutions For Big Industries"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:140
+#: elementor/widgets/crete-appointment.php:140
+msgid "Tab Description"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:142
+#: elementor/widgets/crete-appointment.php:142
+msgid ""
+"Cras facilisi fringilla nisi sed eget vel quis sollicitudin sagittis. "
+"Hendrerit metus nost magna interdum cum habitant sodales, sollicitudin "
+"tincidunt consequat lacinia ullamcorper enim aptent"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:149
+#: elementor/widgets/crete-appointment.php:149
+#: elementor/widgets/crete-info-section-two.php:209
+msgid "Button Content"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:157
+#: elementor/widgets/crete-appointment.php:157
+#: elementor/widgets/crete-hero.php:314 elementor/widgets/crete-hero.php:352
+#: elementor/widgets/crete-video-box.php:91
+msgid "Button Label"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:159
+#: elementor/widgets/crete-appointment.php:159
+msgid "Lear More "
+msgstr ""
+
+#: elementor/widgets/crete-about.php:166
+#: elementor/widgets/crete-appointment.php:166
+#: elementor/widgets/crete-hero.php:324 elementor/widgets/crete-hero.php:362
+#: elementor/widgets/crete-info-section-two.php:227
+#: elementor/widgets/crete-project-filter.php:105
+#: elementor/widgets/crete-video-box.php:101
+msgid "Button Link"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:182
+#: elementor/widgets/crete-appointment.php:182
+#: elementor/widgets/crete-info-section-two.php:244
+msgid "Phone Number Content"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:190
+#: elementor/widgets/crete-appointment.php:190
+msgid "Phone Icon"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:201
+#: elementor/widgets/crete-appointment.php:201
+#: elementor/widgets/crete-countdown.php:63
+msgid "Phone Number"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:204 elementor/widgets/crete-about.php:205
+#: elementor/widgets/crete-appointment.php:204
+#: elementor/widgets/crete-appointment.php:205
+msgid "+25 (259) 214893-23"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:211
+#: elementor/widgets/crete-appointment.php:211
+msgid "Phone Number Bellow Text"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:214
+#: elementor/widgets/crete-appointment.php:214
+msgid "For Any Question"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:215
+#: elementor/widgets/crete-appointment.php:215
+msgid "Input Bellow Phone Number Text"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:221
+#: elementor/widgets/crete-appointment.php:221
+msgid "/*** Counter One Content ***/"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:229
+#: elementor/widgets/crete-appointment.php:229
+msgid "Counter One Number"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:232
+#: elementor/widgets/crete-appointment.php:232
+#: elementor/widgets/crete-info-section-two.php:323
+msgid "25"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:239
+#: elementor/widgets/crete-appointment.php:239
+msgid "Counter One Number Suffix"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:242 elementor/widgets/crete-about.php:282
+#: elementor/widgets/crete-appointment.php:242
+#: elementor/widgets/crete-appointment.php:282
+#: elementor/widgets/crete-countdown.php:145
+#: elementor/widgets/crete-countdown.php:208
+#: elementor/widgets/crete-countdown.php:214
+#: elementor/widgets/crete-info-section-two.php:336
+#: elementor/widgets/crete-testimonial.php:167
+msgid "+"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:249
+#: elementor/widgets/crete-appointment.php:249
+msgid "Counter One Number Text"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:252
+#: elementor/widgets/crete-appointment.php:252
+msgid "Years on the market"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:261
+#: elementor/widgets/crete-appointment.php:261
+msgid "/*** Counter Two Content ***/"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:269
+#: elementor/widgets/crete-appointment.php:269
+msgid "Counter Two Number"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:272
+#: elementor/widgets/crete-appointment.php:272
+msgid "375"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:279
+#: elementor/widgets/crete-appointment.php:279
+msgid "Counter Two Number Suffix"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:289
+#: elementor/widgets/crete-appointment.php:289
+msgid "Counter Two Number Text"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:292
+#: elementor/widgets/crete-appointment.php:292
+msgid "Projects delivered so far"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:299
+#: elementor/widgets/crete-appointment.php:299
+msgid "Tab List"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:307
+#: elementor/widgets/crete-appointment.php:307
+msgid "Our Mission"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:310
+#: elementor/widgets/crete-appointment.php:310
+msgid "Our Visssion"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:313
+#: elementor/widgets/crete-appointment.php:313
+msgid "Our Goal"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:324
+#: elementor/widgets/crete-appointment.php:324
+#: elementor/widgets/crete-contact.php:364 elementor/widgets/crete-hero.php:387
+#: elementor/widgets/crete-info-section-two.php:363
+#: elementor/widgets/crete-team-promo.php:172
+#: elementor/widgets/crete-team.php:114
+#: elementor/widgets/crete-testimonial.php:342
+#: elementor/widgets/crete-video-box.php:118
+msgid "Section Style"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:331
+#: elementor/widgets/crete-appointment.php:331
+#: elementor/widgets/crete-hero.php:394
+#: elementor/widgets/crete-info-section-two.php:370
+#: elementor/widgets/crete-team-promo.php:179
+#: elementor/widgets/crete-team.php:121
+#: elementor/widgets/crete-testimonial.php:349
+#: elementor/widgets/crete-video-box.php:125
+msgid "Container Width"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:354
+#: elementor/widgets/crete-appointment.php:354
+#: elementor/widgets/crete-hero.php:452
+#: elementor/widgets/crete-team-promo.php:202
+#: elementor/widgets/crete-team.php:186
+msgid "Sub Heading Style"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:361
+#: elementor/widgets/crete-appointment.php:361
+#: elementor/widgets/crete-hero.php:462
+#: elementor/widgets/crete-pricing-table.php:171
+#: elementor/widgets/crete-team-promo.php:209
+#: elementor/widgets/crete-team.php:193
+#: elementor/widgets/crete-testimonial.php:394
+msgid "Sub Heading Color"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:372
+#: elementor/widgets/crete-appointment.php:372
+#: elementor/widgets/crete-hero.php:474
+#: elementor/widgets/crete-pricing-table.php:184
+#: elementor/widgets/crete-team-promo.php:220
+#: elementor/widgets/crete-team.php:204
+#: elementor/widgets/crete-testimonial.php:405
+msgid "Sub Heading Typography"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:379
+#: elementor/widgets/crete-appointment.php:379
+#: elementor/widgets/crete-hero.php:481
+#: elementor/widgets/crete-team-promo.php:227
+#: elementor/widgets/crete-team.php:211
+#: elementor/widgets/crete-testimonial.php:412
+msgid "Sub Heading Border Color"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:390
+#: elementor/widgets/crete-appointment.php:390
+#: elementor/widgets/crete-hero.php:495
+#: elementor/widgets/crete-info-section-two.php:441
+#: elementor/widgets/crete-team-promo.php:238
+#: elementor/widgets/crete-team.php:222
+#: elementor/widgets/crete-video-box.php:204
+msgid "Heading Style"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:397
+#: elementor/widgets/crete-appointment.php:397
+#: elementor/widgets/crete-hero.php:502
+#: elementor/widgets/crete-info-section-two.php:448
+#: elementor/widgets/crete-pricing-table.php:192
+#: elementor/widgets/crete-team-promo.php:245
+#: elementor/widgets/crete-team.php:229
+#: elementor/widgets/crete-testimonial.php:430
+#: elementor/widgets/crete-video-box.php:211
+msgid "Heading Color"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:408
+#: elementor/widgets/crete-appointment.php:408
+#: elementor/widgets/crete-hero.php:516
+#: elementor/widgets/crete-info-section-two.php:459
+#: elementor/widgets/crete-pricing-table.php:205
+#: elementor/widgets/crete-team-promo.php:256
+#: elementor/widgets/crete-team.php:240
+#: elementor/widgets/crete-testimonial.php:442
+#: elementor/widgets/crete-video-box.php:222
+msgid "Heading Typography"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:415
+#: elementor/widgets/crete-appointment.php:415
+msgid "Heading Special Text Color"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:425
+#: elementor/widgets/crete-appointment.php:425
+msgid "Heading Special Text BG Color"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:436
+#: elementor/widgets/crete-appointment.php:436
+msgid "Tab Style"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:443
+#: elementor/widgets/crete-appointment.php:443
+msgid "Tab Title Color"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:454
+#: elementor/widgets/crete-appointment.php:454
+msgid "Tab Title Typography"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:461
+#: elementor/widgets/crete-appointment.php:461
+msgid "Tab Active Color"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:471
+#: elementor/widgets/crete-appointment.php:471
+msgid "Tab Active Border Color"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:483
+#: elementor/widgets/crete-appointment.php:483
+msgid "Tab Sub Heading Style"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:490
+#: elementor/widgets/crete-appointment.php:490
+msgid "Tab Sub Heading Color"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:501
+#: elementor/widgets/crete-appointment.php:501
+msgid "Tab Sub Heading Typography"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:508
+#: elementor/widgets/crete-appointment.php:508
+msgid "Tab Sub Heading Border Color"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:519
+#: elementor/widgets/crete-appointment.php:519
+msgid "Tab Heading Style"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:526
+#: elementor/widgets/crete-appointment.php:526
+msgid "Tab Heading Color"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:537
+#: elementor/widgets/crete-appointment.php:537
+msgid "Tab Heading Typography"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:545
+#: elementor/widgets/crete-appointment.php:545
+msgid "Tab Descripiton Style"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:552
+#: elementor/widgets/crete-appointment.php:552
+msgid "Tab Descripiton Color"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:563
+#: elementor/widgets/crete-appointment.php:563
+msgid "Tab Descripiton Typography"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:571
+#: elementor/widgets/crete-appointment.php:571
+msgid "Tab Button Style"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:588
+#: elementor/widgets/crete-appointment.php:588
+#: elementor/widgets/crete-info-section-two.php:603
+#: elementor/widgets/crete-video-box.php:273
+msgid "Button Text Color"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:599
+#: elementor/widgets/crete-appointment.php:599
+#: elementor/widgets/crete-info-section-two.php:614
+#: elementor/widgets/crete-video-box.php:284
+msgid "Button Text Typography"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:606
+#: elementor/widgets/crete-appointment.php:606
+#: elementor/widgets/crete-info-section-two.php:621
+#: elementor/widgets/crete-video-box.php:291
+msgid "Button BG Color"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:616
+#: elementor/widgets/crete-appointment.php:616
+#: elementor/widgets/crete-info-section-two.php:631
+#: elementor/widgets/crete-video-box.php:301
+msgid "Button Border Radius"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:628
+#: elementor/widgets/crete-appointment.php:628
+#: elementor/widgets/crete-info-section-two.php:643
+#: elementor/widgets/crete-video-box.php:313
+msgid "Button Border"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:637
+#: elementor/widgets/crete-appointment.php:637
+#: elementor/widgets/crete-button.php:266 elementor/widgets/crete-hero.php:665
+#: elementor/widgets/crete-hero.php:776
+#: elementor/widgets/crete-info-section-two.php:652
+#: elementor/widgets/crete-info-section.php:775
+#: elementor/widgets/crete-video-box.php:322
+#: library/codestar/fields/link_color/link_color.php:37
+#: library/theme-options/extends/custom-color-group.php:37
+msgid "Hover"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:643
+#: elementor/widgets/crete-appointment.php:643
+#: elementor/widgets/crete-info-section-two.php:658
+#: elementor/widgets/crete-video-box.php:328
+msgid "Button Text Hover Color"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:653
+#: elementor/widgets/crete-appointment.php:653
+#: elementor/widgets/crete-info-section-two.php:668
+#: elementor/widgets/crete-video-box.php:338
+msgid "Button Hover BG Color"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:667
+#: elementor/widgets/crete-appointment.php:667
+#: elementor/widgets/crete-info-section-two.php:690
+msgid "Phone Number Style"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:674
+#: elementor/widgets/crete-appointment.php:674
+msgid "Phone Icon Color"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:684
+#: elementor/widgets/crete-appointment.php:684
+msgid "Phone Icon Border Color"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:694
+#: elementor/widgets/crete-appointment.php:694
+msgid "Phone Number Color"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:705
+#: elementor/widgets/crete-appointment.php:705
+msgid "Phone Number Typography"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:712
+#: elementor/widgets/crete-appointment.php:712
+msgid "Phone Number Bellow Text Color"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:723
+#: elementor/widgets/crete-appointment.php:723
+msgid "Phone Number Bellow Text Typography"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:731
+#: elementor/widgets/crete-appointment.php:731
+#: elementor/widgets/crete-countdown.php:229
+#: elementor/widgets/crete-info-section-two.php:754
+msgid "Counter Style"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:738
+#: elementor/widgets/crete-appointment.php:738
+#: elementor/widgets/crete-info-section-two.php:761
+#: elementor/widgets/crete-testimonial.php:498
+msgid "Counter Number Color"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:749
+#: elementor/widgets/crete-appointment.php:749
+#: elementor/widgets/crete-info-section-two.php:772
+#: elementor/widgets/crete-testimonial.php:509
+msgid "Counter Number Typography"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:756
+#: elementor/widgets/crete-appointment.php:756
+#: elementor/widgets/crete-info-section-two.php:779
+msgid "Counter Number Text Color"
+msgstr ""
+
+#: elementor/widgets/crete-about.php:767
+#: elementor/widgets/crete-appointment.php:767
+#: elementor/widgets/crete-info-section-two.php:790
+msgid "Counter Number Text Typography"
+msgstr ""
+
+#: elementor/widgets/crete-accordion.php:22
+#: elementor/widgets/crete-accordion.php:41
+msgid "Crete Accordion"
+msgstr ""
+
+#: elementor/widgets/crete-accordion.php:51
+#: elementor/widgets/crete-blog.php:109 elementor/widgets/crete-contact.php:74
+#: elementor/widgets/crete-contact.php:168
+#: elementor/widgets/crete-info-section-two.php:111
+#: elementor/widgets/crete-newsletter.php:58
+#: elementor/widgets/crete-parallax-box.php:104
+#: elementor/widgets/crete-parallax-box.php:148
+#: elementor/widgets/crete-pricing-table.php:60
+#: elementor/widgets/crete-service-feat-box.php:78
+#: elementor/widgets/crete-video-box.php:71
+#: elementor/widgets/one-page/create-op-hero.php:104 library/crete-cpt.php:192
+msgid "Title"
+msgstr ""
+
+#: elementor/widgets/crete-accordion.php:53
+#: elementor/widgets/crete-brand-slider.php:111
+#: elementor/widgets/crete-countdown.php:155
+#: elementor/widgets/crete-parallax-box.php:106
+#: elementor/widgets/crete-service-feat-box.php:80
+msgid "List Title"
+msgstr ""
+
+#: elementor/widgets/crete-accordion.php:61
+#: elementor/widgets/crete-parallax-box.php:114
+#: elementor/widgets/one-page/create-op-hero.php:319
+msgid "Content"
+msgstr ""
+
+#: elementor/widgets/crete-accordion.php:63
+#: elementor/widgets/crete-parallax-box.php:116
+msgid "List Content"
+msgstr ""
+
+#: elementor/widgets/crete-accordion.php:71
+#: elementor/widgets/crete-contact-info-box.php:49
+#: elementor/widgets/crete-service-feat-box.php:49
+msgid "Choose Image"
+msgstr ""
+
+#: elementor/widgets/crete-accordion.php:80
+msgid "Expanded"
+msgstr ""
+
+#: elementor/widgets/crete-accordion.php:94
+#: elementor/widgets/crete-experince.php:96
+#: elementor/widgets/crete-service-grid.php:230
+#: elementor/widgets/crete-skill-slider.php:88
+msgid "Repeater List"
+msgstr ""
+
+#: elementor/widgets/crete-accordion.php:99
+msgid "What is Digital Marketing Solution"
+msgstr ""
+
+#: elementor/widgets/crete-accordion.php:100
+#: elementor/widgets/crete-accordion.php:104
+msgid ""
+"Aenean at lobortis tincidunt felis nulla nisl semper nullam justo, eros "
+"natoque faucibus senectus erat nunc nostra himenaeos sem turpis, mi libero "
+"sociosqu nec ridiculus penatibus donec aliquet vulputate. Venenatis "
+"vulputate ultrices eleifend dapibus phasellus tempus vehicula facilisi"
+msgstr ""
+
+#: elementor/widgets/crete-accordion.php:103
+msgid "Design and Development"
+msgstr ""
+
+#: elementor/widgets/crete-accordion.php:119
+msgid "Accordion Style"
+msgstr ""
+
+#: elementor/widgets/crete-accordion.php:127
+msgid "Title Typgraphy"
+msgstr ""
+
+#: elementor/widgets/crete-appointment.php:21
+#: elementor/widgets/crete-video-box.php:22
+msgid "crete-video-box"
+msgstr ""
+
+#: elementor/widgets/crete-blog.php:22
+msgid "Crete Blog Post"
+msgstr ""
+
+#: elementor/widgets/crete-blog.php:41
+msgid "Post Settings"
+msgstr ""
+
+#: elementor/widgets/crete-blog.php:49
+msgid "Select Blog Style"
+msgstr ""
+
+#: elementor/widgets/crete-blog.php:53
+msgid "Blog Style One"
+msgstr ""
+
+#: elementor/widgets/crete-blog.php:54
+msgid "Blog Style Two"
+msgstr ""
+
+#: elementor/widgets/crete-blog.php:55
+msgid "Blog Style Three"
+msgstr ""
+
+#: elementor/widgets/crete-blog.php:63
+#: elementor/widgets/crete-project-filter.php:72
+#: elementor/widgets/crete-project.php:95
+msgid "Number of Post to Show"
+msgstr ""
+
+#: elementor/widgets/crete-blog.php:74
+#: elementor/widgets/crete-project-filter.php:81
+#: elementor/widgets/crete-project.php:104
+msgid "Select Category"
+msgstr ""
+
+#: elementor/widgets/crete-blog.php:92
+#: elementor/widgets/crete-testimonial.php:90
+msgid "Section Content"
+msgstr ""
+
+#: elementor/widgets/crete-blog.php:99 elementor/widgets/crete-contact.php:65
+#: elementor/widgets/one-page/create-op-hero.php:186
+msgid "Subtitle"
+msgstr ""
+
+#: elementor/widgets/crete-blog.php:101
+msgid "News & Updates"
+msgstr ""
+
+#: elementor/widgets/crete-blog.php:102
+msgid "Type your sub title here"
+msgstr ""
+
+#: elementor/widgets/crete-blog.php:111
+msgid "Recent Blog"
+msgstr ""
+
+#: elementor/widgets/crete-blog.php:119 elementor/widgets/crete-contact.php:177
+#: elementor/widgets/crete-info-section-two.php:121
+#: elementor/widgets/crete-newsletter.php:68
+#: elementor/widgets/crete-pricing-table.php:71
+msgid "Style Title"
+msgstr ""
+
+#: elementor/widgets/crete-blog.php:121
+msgid "Updates"
+msgstr ""
+
+#: elementor/widgets/crete-blog.php:129
+msgid "View More Text"
+msgstr ""
+
+#: elementor/widgets/crete-blog.php:131
+msgid "View All Posts"
+msgstr ""
+
+#: elementor/widgets/crete-blog.php:132 elementor/widgets/crete-blog.php:142
+msgid "Type your text here"
+msgstr ""
+
+#: elementor/widgets/crete-blog.php:139
+msgid "View More Url"
+msgstr ""
+
+#: elementor/widgets/crete-blog.php:141
+#: elementor/widgets/crete-pricing-table.php:115
+#: elementor/widgets/one-page/create-op-hero.php:116
+#: elementor/widgets/one-page/create-op-hero.php:256
+#: elementor/widgets/one-page/create-op-hero.php:279
+msgid "#"
+msgstr ""
+
+#: elementor/widgets/crete-brand-slider.php:22
+#: elementor/widgets/crete-brand-slider.php:41
+msgid "Crete Brand Slider"
+msgstr ""
+
+#: elementor/widgets/crete-brand-slider.php:49
+msgid "Crete Brands Section Style"
+msgstr ""
+
+#: elementor/widgets/crete-brand-slider.php:65
+#: elementor/widgets/crete-countdown.php:90
+msgid "Sub Title Text"
+msgstr ""
+
+#: elementor/widgets/crete-brand-slider.php:67
+#: elementor/widgets/crete-countdown.php:92
+#: elementor/widgets/crete-info-section.php:138
+#: elementor/widgets/crete-project.php:67
+#: elementor/widgets/crete-service-grid.php:67
+#, php-format
+msgid "50% discount on early purchase"
+msgstr ""
+
+#: elementor/widgets/crete-brand-slider.php:79
+#: elementor/widgets/crete-countdown.php:104
+msgid "Title Text"
+msgstr ""
+
+#: elementor/widgets/crete-brand-slider.php:81
+#: elementor/widgets/crete-countdown.php:106
+msgid "An original team of creators designers &"
+msgstr ""
+
+#: elementor/widgets/crete-brand-slider.php:92
+#: elementor/widgets/crete-countdown.php:117
+msgid "Style Title Text"
+msgstr ""
+
+#: elementor/widgets/crete-brand-slider.php:94
+#: elementor/widgets/crete-countdown.php:119
+msgid "dreamers."
+msgstr ""
+
+#: elementor/widgets/crete-brand-slider.php:109
+#: elementor/widgets/crete-contact.php:83
+#: elementor/widgets/crete-countdown.php:153
+#: elementor/widgets/crete-info-section-two.php:148
+#: elementor/widgets/crete-pricing-table.php:85
+#: elementor/widgets/crete-team-promo.php:103
+#: elementor/widgets/one-page/create-op-hero.php:219
+msgid "Description"
+msgstr ""
+
+#: elementor/widgets/crete-brand-slider.php:119
+msgid "Choose Client Logo"
+msgstr ""
+
+#: elementor/widgets/crete-brand-slider.php:131
+msgid "Brands List"
+msgstr ""
+
+#: elementor/widgets/crete-brand-slider.php:136
+msgid "Client One"
+msgstr ""
+
+#: elementor/widgets/crete-brand-slider.php:141
+msgid "Client Two"
+msgstr ""
+
+#: elementor/widgets/crete-button.php:22 elementor/widgets/crete-button.php:41
+#: elementor/widgets/crete-service-feat-box.php:41
+msgid "Crete Button"
+msgstr ""
+
+#: elementor/widgets/crete-button.php:49
+#: elementor/widgets/crete-contact-info-box.php:81
+msgid "Button Type"
+msgstr ""
+
+#: elementor/widgets/crete-button.php:53
+#: elementor/widgets/crete-contact-info-box.php:85
+#: library/codestar/fields/typography/typography.php:119
+#: library/codestar/fields/typography/typography.php:132
+#: library/codestar/fields/typography/typography.php:145
+#: library/codestar/fields/typography/typography.php:160
+#: library/codestar/fields/typography/typography.php:176
+#: library/codestar/fields/typography/typography.php:189
+#: library/codestar/fields/typography/typography.php:203
+#: library/codestar/fields/typography/typography.php:221
+#: library/crete-nav-options.php:242
+msgid "Default"
+msgstr ""
+
+#: elementor/widgets/crete-button.php:54
+#: elementor/widgets/crete-contact-info-box.php:86
+msgid "Video Popup"
+msgstr ""
+
+#: elementor/widgets/crete-button.php:63
+#: elementor/widgets/crete-info-section-two.php:217
+#: elementor/widgets/crete-pricing-table.php:99
+#: elementor/widgets/crete-project-filter.php:95
+msgid "Button Text"
+msgstr ""
+
+#: elementor/widgets/crete-button.php:65
+#: elementor/widgets/crete-service-feat-box.php:60
+#: elementor/widgets/crete-service-feat-box.php:69
+msgid "Meet Our Specialist"
+msgstr ""
+
+#: elementor/widgets/crete-button.php:71
+#: elementor/widgets/crete-contact-info-box.php:103
+msgid "Link"
+msgstr ""
+
+#: elementor/widgets/crete-button.php:87
+#: elementor/widgets/crete-contact-info-box.php:57
+#: elementor/widgets/crete-countdown.php:163
+#: elementor/widgets/crete-experince.php:83
+#: elementor/widgets/crete-hero.php:378
+#: elementor/widgets/crete-info-section.php:294
+#: elementor/widgets/crete-info-section.php:356
+#: elementor/widgets/crete-marquee.php:68
+#: elementor/widgets/crete-parallax-box.php:80
+#: elementor/widgets/crete-service-feat-box.php:88
+#: elementor/widgets/crete-skill-slider.php:75
+#: elementor/widgets/crete-team-promo.php:122
+#: elementor/widgets/one-page/create-op-hero.php:124
+#: elementor/widgets/one-page/create-op-hero.php:329
+msgid "Icon"
+msgstr ""
+
+#: elementor/widgets/crete-button.php:94
+msgid "Icon Position"
+msgstr ""
+
+#: elementor/widgets/crete-button.php:98
+msgid "Before"
+msgstr ""
+
+#: elementor/widgets/crete-button.php:99
+msgid "After"
+msgstr ""
+
+#: elementor/widgets/crete-button.php:106
+msgid "Button Alignment"
+msgstr ""
+
+#: elementor/widgets/crete-button.php:110 elementor/widgets/crete-title.php:71
+#: library/codestar/fields/typography/typography.php:171
+#: library/crete-nav-options.php:84
+msgid "Left"
+msgstr ""
+
+#: elementor/widgets/crete-button.php:114 elementor/widgets/crete-title.php:75
+#: library/codestar/fields/typography/typography.php:172
+#: library/crete-nav-options.php:85
+msgid "Center"
+msgstr ""
+
+#: elementor/widgets/crete-button.php:118 elementor/widgets/crete-title.php:79
+#: library/codestar/fields/typography/typography.php:173
+#: library/crete-nav-options.php:86 library/crete-nav-options.php:190
+msgid "Right"
+msgstr ""
+
+#: elementor/widgets/crete-button.php:132
+#: elementor/widgets/crete-button.php:157
+msgid "Icon Spacing"
+msgstr ""
+
+#: elementor/widgets/crete-button.php:186
+#: elementor/widgets/crete-info-section-two.php:587
+#: elementor/widgets/crete-video-box.php:256
+msgid "Button Style"
+msgstr ""
+
+#: elementor/widgets/crete-button.php:224
+#: elementor/widgets/crete-button.php:284
+#: elementor/widgets/crete-contact.php:373
+msgid "Background"
+msgstr ""
+
+#: elementor/widgets/crete-button.php:232
+#: elementor/widgets/crete-button.php:292 elementor/widgets/crete-hero.php:582
+msgid "Padding"
+msgstr ""
+
+#: elementor/widgets/crete-button.php:244
+#: elementor/widgets/crete-button.php:304
+msgid "Border"
+msgstr ""
+
+#: elementor/widgets/crete-button.php:251
+#: elementor/widgets/crete-button.php:311
+msgid "Border Radius"
+msgstr ""
+
+#: elementor/widgets/crete-button.php:328
+#: elementor/widgets/crete-video-box.php:148
+msgid "Box Shadow"
+msgstr ""
+
+#: elementor/widgets/crete-contact-info-box.php:22
+msgid "Crete Contact Infobox"
+msgstr ""
+
+#: elementor/widgets/crete-contact-info-box.php:41
+msgid "Crete Infobox"
+msgstr ""
+
+#: elementor/widgets/crete-contact-info-box.php:95
+msgid "Box Text"
+msgstr ""
+
+#: elementor/widgets/crete-contact-info-box.php:97
+msgid "+584 (25) 21453"
+msgstr ""
+
+#: elementor/widgets/crete-contact-info-box.php:119
+msgid "Box  Sub Text"
+msgstr ""
+
+#: elementor/widgets/crete-contact-info-box.php:121
+msgid "Call Us 24/7"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:22
+msgid "Crete Contact"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:41
+msgid "Contact Content"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:49
+msgid "Contact Style"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:55
+#: elementor/widgets/crete-info-section.php:51
+#: elementor/widgets/crete-project.php:56
+msgid "Style Three"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:67
+#, php-format
+msgid "100% discount on early purchase"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:76
+msgid "Lets Work Together"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:85
+msgid ""
+"Interdum condimentum congue conubia netus neque lentesque curabitur etiam "
+"nisl montes, gravida luctus nec morbi dignissim ridiculus nam hendrerit "
+"ullamcorper, euismod"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:97
+msgid "Contact Info Content"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:105
+msgid "Email Label"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:107
+msgid "Mail Us"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:114
+#: elementor/widgets/one-page/create-op-hero.php:80
+msgid "Email"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:116
+msgid "info@example.com"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:123
+msgid "Phone Label"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:125
+msgid "Call Us"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:132
+msgid "Phone"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:134
+msgid "456 1122 7890"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:141
+msgid "Address Label"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:143
+#: elementor/widgets/crete-contact.php:150
+#: elementor/widgets/one-page/create-op-hero.php:91
+msgid "Address"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:152
+msgid "214 Berlin, Germany"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:160
+msgid "Form Content"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:170
+msgid "Get a free"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:179
+msgid "quote now"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:186
+msgid "Contact Form Shortcode"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:195
+msgid "Map Code"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:210
+msgid "Content Style"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:217
+msgid "Subtitle Color"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:232
+msgid "Subtitle Typography"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:240
+#: elementor/widgets/crete-contact.php:340
+#: elementor/widgets/crete-title.php:104
+msgid "Title Color"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:256
+#: elementor/widgets/crete-contact.php:353
+#: elementor/widgets/crete-title.php:116
+msgid "Title Typography"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:265
+#: elementor/widgets/crete-info-section-two.php:494
+#: elementor/widgets/crete-team-promo.php:291
+msgid "Description Color"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:278
+#: elementor/widgets/crete-info-section-two.php:505
+#: elementor/widgets/crete-team-promo.php:302
+msgid "Description Typography"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:286
+msgid "Contact Info Style"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:294
+msgid "Contact Title Color"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:305
+msgid "Contact Title Typography"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:312
+msgid "Contact Details Color"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:323
+msgid "Contact Details Typography"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:332
+msgid "Contact Form Style"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:381
+msgid "Section Shapes Style"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:389
+msgid "Shape 1 Color"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:399
+msgid "Shape 2 Color"
+msgstr ""
+
+#: elementor/widgets/crete-contact.php:409
+msgid "Shape 3 Color"
+msgstr ""
+
+#: elementor/widgets/crete-countdown.php:22
+#: elementor/widgets/crete-countdown.php:41
+msgid "Crete Countdown"
+msgstr ""
+
+#: elementor/widgets/crete-countdown.php:49
+msgid "Crete Counter Section Style"
+msgstr ""
+
+#: elementor/widgets/crete-countdown.php:65
+msgid ""
+"\n"
+"+(25) 1258 36 3215"
+msgstr ""
+
+#: elementor/widgets/crete-countdown.php:77
+msgid "Phone Below Title"
+msgstr ""
+
+#: elementor/widgets/crete-countdown.php:79
+msgid "Call Me Directly Anytime"
+msgstr ""
+
+#: elementor/widgets/crete-countdown.php:133
+#: elementor/widgets/one-page/create-op-hero.php:300
+msgid "Count"
+msgstr ""
+
+#: elementor/widgets/crete-countdown.php:135
+#: elementor/widgets/crete-countdown.php:207
+msgid "86"
+msgstr ""
+
+#: elementor/widgets/crete-countdown.php:143
+msgid "Suffix"
+msgstr ""
+
+#: elementor/widgets/crete-countdown.php:187
+msgid "Sea Colored"
+msgstr ""
+
+#: elementor/widgets/crete-countdown.php:201
+#: elementor/widgets/one-page/create-op-hero.php:344
+msgid "Counter List"
+msgstr ""
+
+#: elementor/widgets/crete-countdown.php:206
+#: elementor/widgets/crete-testimonial.php:301
+msgid "Review"
+msgstr ""
+
+#: elementor/widgets/crete-countdown.php:212 library/crete-cpt.php:69
+msgid "Team"
+msgstr ""
+
+#: elementor/widgets/crete-countdown.php:213
+msgid "29"
+msgstr ""
+
+#: elementor/widgets/crete-experince.php:22
+#: elementor/widgets/crete-experince.php:41
+msgid "Crete Experience"
+msgstr ""
+
+#: elementor/widgets/crete-experince.php:52
+msgid "Job Title"
+msgstr ""
+
+#: elementor/widgets/crete-experince.php:54
+#: elementor/widgets/crete-experince.php:101
+msgid "UI/UX Designer"
+msgstr ""
+
+#: elementor/widgets/crete-experince.php:64
+#: elementor/widgets/crete-experince.php:102
+msgid "Facebook Limited"
+msgstr ""
+
+#: elementor/widgets/crete-experince.php:72
+msgid "Duration"
+msgstr ""
+
+#: elementor/widgets/crete-experince.php:74
+msgid "Jan 2022 - Jan 2023"
+msgstr ""
+
+#: elementor/widgets/crete-experince.php:103
+#: elementor/widgets/crete-experince.php:108
+msgid "Jan 2023 - Present"
+msgstr ""
+
+#: elementor/widgets/crete-experince.php:106
+msgid "Product Designer"
+msgstr ""
+
+#: elementor/widgets/crete-experince.php:107
+msgid "Oyo Bank Limited"
+msgstr ""
+
+#: elementor/widgets/crete-experince.php:121
+#: elementor/widgets/crete-skill-slider.php:111
+msgid "Experience Style"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:21
+msgid "Crete Hero"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:37
+#: elementor/widgets/one-page/create-op-hero.php:367
+msgid "Hero Style"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:44
+msgid "Select Hero Style"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:48 elementor/widgets/crete-marquee.php:48
+#: elementor/widgets/crete-testimonial.php:48
+msgid "Style 1"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:49
+#: elementor/widgets/crete-testimonial.php:49
+msgid "Style 2"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:50
+#: elementor/widgets/crete-testimonial.php:50
+msgid "Style 3"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:51
+#: elementor/widgets/crete-testimonial.php:51
+msgid "Style 4"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:60
+msgid "Hero Images And Shapes"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:67
+#: elementor/widgets/crete-testimonial.php:69
+msgid "Circle Color Shape 1"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:80
+#: elementor/widgets/crete-testimonial.php:79
+msgid "Circle Color Shape 2"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:93
+msgid "Circle Color Shape 3"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:106
+msgid "Circle Color Shape 4"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:119
+msgid "Circle Color Shape 5"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:132
+msgid "Section BG Image"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:142
+msgid "Shape Image 1"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:152
+msgid "Shape Image 2"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:162
+msgid "Shape Image 3"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:172
+msgid "Shape Image 4"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:182
+msgid "Shape Image 5"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:192
+msgid "Shape Image 6"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:202
+msgid "Shape Image 7"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:212
+msgid "Banner Main Image"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:222
+msgid "Banner Main Image Mobile"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:234 elementor/widgets/crete-hero.php:244
+msgid "Text Shape"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:247
+msgid "Desiger"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:256
+msgid "Hero Content"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:266
+#, php-format
+msgid "50% discount on earlly purchase"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:279
+msgid "Creating the best digital solution"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:289
+msgid "Information"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:293
+msgid ""
+"Malesuada curabitur nascetur viverra sem pulvinar feugiat curae, posuere "
+"risus consequat velit bibendum at integer"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:294
+#: elementor/widgets/crete-team-promo.php:107
+#: elementor/widgets/crete-video-box.php:85
+#: elementor/widgets/one-page/create-op-hero.php:223
+msgid "Type your description here"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:304
+msgid "Button One Content"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:317
+#: elementor/widgets/crete-info-section-two.php:220
+msgid "Learn More"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:342
+msgid "Button Two Content"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:355
+#: elementor/widgets/crete-info-section.php:270
+msgid "Get Started"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:418
+msgid "Banner Main Image Style"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:428
+msgid "Main Image Width"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:526
+msgid "Heading Feature Text Color"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:539
+msgid "Heading Feature Text Background Color"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:553
+#: elementor/widgets/crete-video-box.php:230
+msgid "Info Style"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:560
+#: elementor/widgets/crete-video-box.php:237
+msgid "Info Color"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:573
+#: elementor/widgets/crete-video-box.php:248
+msgid "Info Typography"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:597
+msgid "Button One Style"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:614
+#: elementor/widgets/crete-info-section.php:656
+msgid "Button One Text Color"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:626
+#: elementor/widgets/crete-info-section.php:668
+msgid "Button One Text Typography"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:633
+msgid "Button One BG Color"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:644
+#: elementor/widgets/crete-info-section.php:703
+msgid "Button One Border Radius"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:656
+#: elementor/widgets/crete-info-section.php:696
+msgid "Button One Border"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:671
+#: elementor/widgets/crete-info-section.php:781
+msgid "Button One Text Hover Color"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:682
+msgid "Button One Hover BG Color"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:703
+msgid "Button Two Style"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:723
+#: elementor/widgets/crete-info-section.php:722
+msgid "Button Two Text Color"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:737
+#: elementor/widgets/crete-info-section.php:715
+msgid "Button Two Text Typography"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:744
+msgid "Button Two BG Color"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:755
+#: elementor/widgets/crete-info-section.php:761
+msgid "Button Two Border Radius"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:767
+#: elementor/widgets/crete-info-section.php:754
+msgid "Button Two Border"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:782
+msgid "Button Two Text Hover Color"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:794
+msgid "Button Two Hover BG Color"
+msgstr ""
+
+#: elementor/widgets/crete-hero.php:806
+msgid "Button Two Hover-Border"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:21
+msgid "Crete Info Section Two"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:38
+#: elementor/widgets/crete-info-section.php:21
+#: elementor/widgets/crete-info-section.php:38
+msgid "Crete Info Section"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:45
+msgid "Reverce Left/Right"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:68
+#: elementor/widgets/crete-parallax-box.php:199
+msgid "Box Style"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:86
+msgid "Crete Info Discount Content "
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:93
+msgid "Discount Title"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:96
+#, php-format
+msgid "50% discount on earyly purchase"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:104
+msgid "Title Content "
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:114
+msgid "Work With Our Full Time "
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:124
+msgid "Experts "
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:131
+msgid "Style Title After Text"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:141
+msgid "Description Content "
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:151
+msgid ""
+"Leo in taciti conubia, arcu dapibus convallis commodo. Bibendum tristique "
+"lacus aenean quisque ut "
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:159
+msgid "Description Stylish Text"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:162
+#: elementor/widgets/crete-info-section.php:204
+msgid "primis torquent dis eget"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:171
+msgid "Section Box Content"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:178
+msgid "Check Icon"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:189
+#: elementor/widgets/crete-team-promo.php:133
+msgid "Box Title"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:192
+msgid "The best agency solution 2023"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:199
+#: elementor/widgets/crete-team-promo.php:143
+msgid "Box Info"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:202
+msgid ""
+"These tools will allow you to handle tasks such hanging sves assemble "
+"furniture"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:252
+msgid "Call Icon"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:263
+msgid "Call Before Text"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:266
+msgid "Call Us 2 4/7"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:273
+msgid "Phone Numbre"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:276
+msgid "(+25) 2158.2693"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:277
+#: elementor/widgets/crete-testimonial.php:158
+#: elementor/widgets/crete-testimonial.php:199
+msgid "Type your Number here"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:284
+#: elementor/widgets/crete-team.php:153
+msgid "Section Image"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:291
+msgid "Metting Image"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:302
+msgid "Counter Box"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:309
+msgid "Enable Counter Box"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:320
+#: elementor/widgets/crete-testimonial.php:154
+msgid "Counter Number"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:324
+msgid "Type your number here"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:333
+#: elementor/widgets/crete-testimonial.php:164
+msgid "Counter Number Suffix"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:337
+msgid "Type your Suffix here"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:346
+#: elementor/widgets/crete-testimonial.php:174
+msgid "Counter Text"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:349
+msgid "Years of Experience"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:350
+#: elementor/widgets/crete-testimonial.php:209
+msgid "Type your Text here"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:392
+msgid "Section Padding"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:404
+msgid "Discount Text Style"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:411
+msgid "Discount Text Color"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:422
+msgid "Discount Text Typography"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:429
+msgid "Discount Text Border Color"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:466
+#: elementor/widgets/crete-team-promo.php:263
+#: elementor/widgets/crete-team.php:247
+#: elementor/widgets/crete-testimonial.php:450
+msgid "Special Heading Color"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:476
+#: elementor/widgets/crete-team-promo.php:273
+#: elementor/widgets/crete-team.php:257
+#: elementor/widgets/crete-testimonial.php:474
+msgid "Special Heading BG Color"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:487
+#: elementor/widgets/crete-team-promo.php:284
+msgid "Description Style"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:512
+msgid "Special Description Color"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:523
+msgid "Section Box Style"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:530
+msgid "Check Icon Color"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:540
+msgid "Check Icon BG Color"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:550
+msgid "Box Title Color"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:561
+msgid "Box Title Typography"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:568
+msgid "Box Info Color"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:579
+msgid "Box Info Typography"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:679
+msgid "Button Hover Border"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:697
+msgid "Call Icon Color"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:707
+msgid "Call Icon BG Color"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:717
+msgid "Number Before Text Color"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:728
+msgid "Number Before Text Typography"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:735
+msgid "Number Color"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:746
+msgid "Number Typography"
+msgstr ""
+
+#: elementor/widgets/crete-info-section-two.php:797
+msgid "Counter Number BG Color"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:45
+#: elementor/widgets/crete-project.php:50
+#: elementor/widgets/crete-service-grid.php:50
+msgid "Crete Info Section Style"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:52
+#: elementor/widgets/crete-project.php:57
+msgid "Style Four"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:53
+msgid "Style Five"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:61
+msgid "Reverse Left/Right"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:65
+msgid "Reverse "
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:85
+msgid "Crete Info Left Section "
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:92
+msgid "Left First Image"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:102
+msgid "Left Second Image"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:116
+msgid "Crete Left Text"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:118
+msgid "We are since 2002! Over 200 Awards"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:129
+msgid "Crete Info Right Section "
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:136
+msgid "Crete Discount Title"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:151
+msgid "Crete Main Title"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:153
+msgid "We create digital Ideas that are"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:163
+msgid "Crete Main Title Style Text/Designation"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:166
+#: elementor/widgets/crete-info-section.php:177
+msgid "bigger"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:175
+msgid "Crete Main Title Style Text After"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:189
+msgid "Crete Decription"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:192
+msgid ""
+"Leo in taciti conubia, arcu dapibus convallis commodo. Bibendum tristique "
+"lacus aenean quisque ut"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:202
+msgid "Crete Decription Style Text"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:216
+msgid "Right Image Style One"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:229
+msgid "Crete Image decription "
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:231
+msgid ""
+"Leo in taciti conubia, arcu dapibus convallis commodo sour Bibendum "
+"tristique lacus aenean quisque ut primis torquent dis eget awesome company "
+"feewdbacks\n"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:242
+msgid "Crete Button One Text"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:244
+msgid "More About Us"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:252
+msgid "Crete Button One Link"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:268
+msgid "Crete Button Two Text"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:278
+msgid "Crete Button Two Link"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:323
+msgid "Crete About Story Info Section"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:337
+msgid "Info Sub Title"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:347
+msgid "Info Title"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:377
+msgid "info List"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:382
+msgid "info One"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:387
+msgid "info Two"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:392
+msgid "info Three"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:397
+msgid "info Four"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:412
+msgid "Crete Info Left Section Image Style"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:419
+msgid "Left Image Border Radius"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:431
+msgid "Crete Info Left Section Conter Style"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:442
+msgid "Crete Info Left Content Typography"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:452
+msgid "Crete Info Left Content Color"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:464
+msgid "Crete Info Left Content Background Color"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:478
+msgid "Crete Info Right Discount Text"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:486
+msgid "Right Discount Color"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:497
+msgid "Right Discount Typography"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:504
+msgid "Right Discount Border Color"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:515
+msgid "Crete Info Right Main Text"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:523
+msgid "Right Main Text Color"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:534
+msgid "Right main Title Typography"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:541
+msgid "Right Main Title Befor Text Color"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:551
+msgid "Right Main Title Befor Text Bg Color"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:562
+msgid "Crete Info Right Discription Text"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:570
+#: elementor/widgets/crete-info-section.php:609
+msgid "Right Discription Color"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:581
+#: elementor/widgets/crete-info-section.php:620
+msgid "Right Discription Typography"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:590
+msgid "Crete Info Right Image Cart"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:598
+msgid "Image Border Radius"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:627
+msgid "Right Bottom Border Color"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:638
+msgid "Crete Info Right Button Style"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:676
+msgid "Button One Background"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:684
+msgid "Button One Padding"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:734
+msgid "Button Two Background"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:742
+msgid "Button Two Padding"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:793
+msgid "Button One Text Hover Typography"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:801
+msgid "Button One Hover Background"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:809
+msgid "Button One Hover Padding"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:821
+msgid "Button One Hover Border"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:828
+msgid "Button One Hover Border Radius"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:840
+msgid "Button Two Hover Text Typography"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:847
+msgid "Button Two Hover Text Color"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:859
+msgid "Button Two Hover Background"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:867
+msgid "Button Two Hover Padding"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:879
+msgid "Button Two Hover Border"
+msgstr ""
+
+#: elementor/widgets/crete-info-section.php:886
+msgid "Button Two Hover Border Radius"
+msgstr ""
+
+#: elementor/widgets/crete-marquee.php:21
+#: elementor/widgets/crete-marquee.php:37
+msgid "Crete Marquee"
+msgstr ""
+
+#: elementor/widgets/crete-marquee.php:44
+msgid "Marqueue Style"
+msgstr ""
+
+#: elementor/widgets/crete-marquee.php:49
+msgid "style 2"
+msgstr ""
+
+#: elementor/widgets/crete-marquee.php:50
+msgid "style 3"
+msgstr ""
+
+#: elementor/widgets/crete-marquee.php:59
+msgid "Text"
+msgstr ""
+
+#: elementor/widgets/crete-marquee.php:61
+msgid "What We Do"
+msgstr ""
+
+#: elementor/widgets/crete-marquee.php:93
+msgid "Marquee List"
+msgstr ""
+
+#: elementor/widgets/crete-marquee.php:107
+msgid "Marquee Style"
+msgstr ""
+
+#: elementor/widgets/crete-marquee.php:115
+msgid "Background Image"
+msgstr ""
+
+#: elementor/widgets/crete-newsletter.php:22
+#: elementor/widgets/crete-newsletter.php:41
+msgid "Crete Newsletter"
+msgstr ""
+
+#: elementor/widgets/crete-newsletter.php:48
+#: elementor/widgets/crete-title.php:59
+msgid "Sub Title"
+msgstr ""
+
+#: elementor/widgets/crete-newsletter.php:50
+msgid "Whats Going On"
+msgstr ""
+
+#: elementor/widgets/crete-newsletter.php:60
+msgid "Subscribe to our"
+msgstr ""
+
+#: elementor/widgets/crete-newsletter.php:70
+msgid "Newsletter"
+msgstr ""
+
+#: elementor/widgets/crete-newsletter.php:78
+msgid "Form Shortcode"
+msgstr ""
+
+#: elementor/widgets/crete-newsletter.php:93
+msgid "Newsletter Style"
+msgstr ""
+
+#: elementor/widgets/crete-parallax-box.php:22
+msgid "Crete Feature Infobox"
+msgstr ""
+
+#: elementor/widgets/crete-parallax-box.php:41
+msgid "Crete Parallax Infobox"
+msgstr ""
+
+#: elementor/widgets/crete-parallax-box.php:51
+msgid "Sub title"
+msgstr ""
+
+#: elementor/widgets/crete-parallax-box.php:53
+msgid "Company Features"
+msgstr ""
+
+#: elementor/widgets/crete-parallax-box.php:60
+msgid "Main title"
+msgstr ""
+
+#: elementor/widgets/crete-parallax-box.php:62
+msgid "We Provide Best Solution For Your"
+msgstr ""
+
+#: elementor/widgets/crete-parallax-box.php:69
+msgid "Style title"
+msgstr ""
+
+#: elementor/widgets/crete-parallax-box.php:71
+msgid "Company"
+msgstr ""
+
+#: elementor/widgets/crete-parallax-box.php:126
+msgid "Info Box List"
+msgstr ""
+
+#: elementor/widgets/crete-parallax-box.php:131
+msgid "Quality Services"
+msgstr ""
+
+#: elementor/widgets/crete-parallax-box.php:132
+#: elementor/widgets/crete-parallax-box.php:136
+msgid "Purpose quality vectors with highly efficient incubate"
+msgstr ""
+
+#: elementor/widgets/crete-parallax-box.php:135
+msgid "Fast Delivery"
+msgstr ""
+
+#: elementor/widgets/crete-parallax-box.php:150
+#: elementor/widgets/crete-parallax-box.php:175
+msgid "Product Design"
+msgstr ""
+
+#: elementor/widgets/crete-parallax-box.php:158
+msgid "Percent Amount"
+msgstr ""
+
+#: elementor/widgets/crete-parallax-box.php:160
+#: elementor/widgets/crete-parallax-box.php:176
+msgid "70"
+msgstr ""
+
+#: elementor/widgets/crete-parallax-box.php:170
+msgid "Percentage Bar"
+msgstr ""
+
+#: elementor/widgets/crete-parallax-box.php:180
+msgid "Industry Expertise"
+msgstr ""
+
+#: elementor/widgets/crete-parallax-box.php:181
+msgid "93"
+msgstr ""
+
+#: elementor/widgets/crete-pricing-table.php:22
+msgid "Crete Pricing Table"
+msgstr ""
+
+#: elementor/widgets/crete-pricing-table.php:42
+msgid "Pricing Table Contents"
+msgstr ""
+
+#: elementor/widgets/crete-pricing-table.php:50
+msgid "Sub Text"
+msgstr ""
+
+#: elementor/widgets/crete-pricing-table.php:52
+msgid "Pricing Plan"
+msgstr ""
+
+#: elementor/widgets/crete-pricing-table.php:62
+msgid "Find the Right"
+msgstr ""
+
+#: elementor/widgets/crete-pricing-table.php:73
+msgid "Plan"
+msgstr ""
+
+#: elementor/widgets/crete-pricing-table.php:87
+msgid ""
+"Dont find any package match with your plan! Want to setup a new tailor-made "
+"package for only you?. Contact Us"
+msgstr ""
+
+#: elementor/widgets/crete-pricing-table.php:101
+msgid "Contact US"
+msgstr ""
+
+#: elementor/widgets/crete-pricing-table.php:113
+msgid "Button URL"
+msgstr ""
+
+#: elementor/widgets/crete-pricing-table.php:126
+msgid "Select Pricing Table"
+msgstr ""
+
+#: elementor/widgets/crete-pricing-table.php:142
+msgid "Pricing Table Style"
+msgstr ""
+
+#: elementor/widgets/crete-pricing-table.php:163
+msgid "Section Content Style"
+msgstr ""
+
+#: elementor/widgets/crete-pricing-table.php:215
+msgid "Pricing Table Title Style"
+msgstr ""
+
+#: elementor/widgets/crete-pricing-table.php:223
+msgid "Table Title Color"
+msgstr ""
+
+#: elementor/widgets/crete-pricing-table.php:236
+msgid "Table Title Typography"
+msgstr ""
+
+#: elementor/widgets/crete-pricing-table.php:244
+msgid "Table Description Color"
+msgstr ""
+
+#: elementor/widgets/crete-pricing-table.php:257
+msgid "Table Description Typography"
+msgstr ""
+
+#: elementor/widgets/crete-pricing-table.php:269
+msgid "Pricing Table Price Style"
+msgstr ""
+
+#: elementor/widgets/crete-pricing-table.php:277
+msgid "Table Price Color"
+msgstr ""
+
+#: elementor/widgets/crete-pricing-table.php:291
+msgid "Table Price Typography"
+msgstr ""
+
+#: elementor/widgets/crete-pricing-table.php:304
+msgid "Style Two Background"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:23
+msgid "Crete project Filter"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:43
+#: elementor/widgets/crete-project.php:43
+msgid "Crete Top project Section"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:51
+#: elementor/widgets/crete-project.php:65
+msgid "Crete project Top Sub Text"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:53
+msgid "Latest Case Studies"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:61
+msgid "My Recent Projects"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:63
+#: elementor/widgets/crete-project.php:77
+msgid "Our project Area"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:97
+msgid "View All Showcase"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:107
+#: elementor/widgets/crete-video-box.php:57
+msgid "https://www.youtube.com/watch?v=6WZOxnYi4Cs"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:119
+msgid "project Section Style"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:128
+#: elementor/widgets/crete-project.php:131
+msgid "project Section iMAGE Overly Color"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:139
+#: elementor/widgets/crete-project.php:153
+msgid "Crete project Top Text Style"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:147
+#: elementor/widgets/crete-project.php:161
+msgid "Crete project Top SubTitle Color"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:161
+#: elementor/widgets/crete-project.php:175
+msgid "Crete project Top SubTitle Typography"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:168
+#: elementor/widgets/crete-project.php:182
+msgid "Crete project Top Title Color"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:180
+#: elementor/widgets/crete-project.php:194
+msgid "Crete project Top Title Typography"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:189
+#: elementor/widgets/crete-project.php:226
+msgid "Crete project Box Style"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:197
+#: elementor/widgets/crete-project.php:234
+msgid "Crete project Box Background Color"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:210
+#: elementor/widgets/crete-project.php:249
+msgid "Crete project Title Name Style"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:218
+#: elementor/widgets/crete-project.php:257
+msgid "Crete project Title Name Color"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:228
+#: elementor/widgets/crete-project.php:267
+msgid "Crete project Title Name Hover Color"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:239
+#: elementor/widgets/crete-project.php:278
+msgid "Crete project Title Name Typography"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:248
+#: elementor/widgets/crete-project.php:287
+msgid "Crete project Type Style"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:256
+#: elementor/widgets/crete-project.php:295
+msgid "Crete project Type Title"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:267
+#: elementor/widgets/crete-project.php:306
+msgid "Crete project Type Typography"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:277
+#: elementor/widgets/crete-project.php:341
+msgid "Crete project Button "
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:289
+#: elementor/widgets/crete-project.php:362
+msgid "Crete project Button Border Color"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:299
+#: elementor/widgets/crete-project.php:372
+msgid "Crete project Button Background"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:309
+#: elementor/widgets/crete-project.php:382
+msgid "Crete project Button Hover Background"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:320
+#: elementor/widgets/crete-project.php:393
+msgid "Crete project Top Right Button "
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:331
+#: elementor/widgets/crete-project.php:404
+msgid "Crete project Button Right text Color"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:342
+#: elementor/widgets/crete-project.php:415
+msgid "Crete project Button Right text Typography"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:349
+#: elementor/widgets/crete-project.php:422
+msgid "Crete project Button Right Background Color"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:359
+#: elementor/widgets/crete-project.php:432
+msgid "Crete project Button Right Hover Background Color"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:370
+msgid "Crete project Icon Style "
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:379
+msgid "Crete project  icon Color"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:390
+msgid "Crete project Icon Background"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:402
+#: elementor/widgets/crete-project.php:443
+msgid "Crete project  Date Style "
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:413
+#: elementor/widgets/crete-project.php:454
+msgid "Crete project Button Date Color"
+msgstr ""
+
+#: elementor/widgets/crete-project-filter.php:424
+#: elementor/widgets/crete-project.php:465
+msgid "Crete project Typography"
+msgstr ""
+
+#: elementor/widgets/crete-project.php:23
+msgid "Crete project"
+msgstr ""
+
+#: elementor/widgets/crete-project.php:75
+msgid "Crete project Top Title"
+msgstr ""
+
+#: elementor/widgets/crete-project.php:85
+msgid "Crete project Top Title Style Text"
+msgstr ""
+
+#: elementor/widgets/crete-project.php:87
+msgid "Works"
+msgstr ""
+
+#: elementor/widgets/crete-project.php:88
+#: elementor/widgets/crete-service-grid.php:88
+msgid "Area"
+msgstr ""
+
+#: elementor/widgets/crete-project.php:122
+msgid "Project Section Style"
+msgstr ""
+
+#: elementor/widgets/crete-project.php:139
+msgid "Crete Project Section Border Radius"
+msgstr ""
+
+#: elementor/widgets/crete-project.php:201
+#: elementor/widgets/crete-project.php:213
+msgid "Crete project Title Style Color"
+msgstr ""
+
+#: elementor/widgets/crete-project.php:313
+msgid "Crete project Type Background Color"
+msgstr ""
+
+#: elementor/widgets/crete-project.php:326
+msgid "Crete project Type Hover Background Color"
+msgstr ""
+
+#: elementor/widgets/crete-project.php:352
+msgid "Crete project Button Text Color"
+msgstr ""
+
+#: elementor/widgets/crete-project.php:473
+msgid "Crete project Top Arrow "
+msgstr ""
+
+#: elementor/widgets/crete-project.php:484
+#: elementor/widgets/crete-project.php:505
+msgid "Crete project Top Arrow Color"
+msgstr ""
+
+#: elementor/widgets/crete-project.php:495
+msgid "Crete project Arrow Button Background"
+msgstr ""
+
+#: elementor/widgets/crete-project.php:516
+msgid "Crete project Arrow Button Hover Background"
+msgstr ""
+
+#: elementor/widgets/crete-service-feat-box.php:22
+msgid "Crete Service Feat Box"
+msgstr ""
+
+#: elementor/widgets/crete-service-feat-box.php:58
+#: elementor/widgets/crete-title.php:50
+#: elementor/widgets/one-page/create-op-hero.php:197
+msgid "Main Title"
+msgstr ""
+
+#: elementor/widgets/crete-service-feat-box.php:67
+msgid "Main Description"
+msgstr ""
+
+#: elementor/widgets/crete-service-feat-box.php:113
+msgid "Feature List"
+msgstr ""
+
+#: elementor/widgets/crete-service-feat-box.php:118
+msgid "We Provide Flexible Product Services"
+msgstr ""
+
+#: elementor/widgets/crete-service-feat-box.php:122
+msgid "Best Creative Solution with Our Team"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:23
+msgid "Crete Service Section"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:43
+msgid "Crete Top service Section"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:54
+msgid "Grid"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:55
+msgid "Slider"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:56
+msgid "Grid Two"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:57
+msgid "Grid Three"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:65
+msgid "Crete searvice Top Sub Text"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:75
+msgid "Crete searvice Top Title"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:77
+#: elementor/widgets/crete-service-grid.php:87
+msgid "Our Service Area"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:85
+msgid "Crete searvice Top Title Style Text"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:98
+msgid "Crete searvice Top Decription"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:100
+msgid ""
+"There are many variations of passages of Lorem Ipsum available, but the "
+"majority have suffered alteration, by injected humour."
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:108
+msgid "Background Net Vector"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:116
+msgid "Circle Shape"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:128
+msgid "Crete service Main Section "
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:138
+msgid "Crete Searvice Image"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:149
+msgid "Crete Searvice Title"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:151
+msgid "Web Development"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:159
+msgid "Crete Searvice Decription"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:161
+msgid ""
+"There are many variations of passages of lorem Ipsum available but to the "
+"majority have suffered but the into majority have suffered alteration\n"
+"\n"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:170
+msgid "Crete Searvice Button Link Test"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:172
+msgid "Get Started "
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:182
+msgid "Crete Searvice Button Link URL"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:198
+msgid "Crete Extra Text"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:200
+msgid "Apps Development "
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:207
+msgid "Crete Searvice Button Icon"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:235
+msgid "Title #1"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:236
+#: elementor/widgets/crete-service-grid.php:240
+#: elementor/widgets/crete-service-grid.php:244
+#: elementor/widgets/crete-service-grid.php:248
+msgid "Item content. Click the edit button to change this text."
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:239
+msgid "Title #2"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:243
+msgid "Title #3"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:247
+msgid "Title #4"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:263
+msgid "Service Section Style"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:279
+msgid "Service Section shape one Color"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:289
+msgid "Service Section Shape Two Color"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:299
+msgid "Scroll Animation"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:302
+msgid "Disable"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:312
+msgid "Crete service Top Text Style"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:320
+msgid "Crete service Top SubTitle Color"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:334
+msgid "Crete service Top SubTitle Typography"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:341
+msgid "Crete service Top Title Color"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:353
+msgid "Crete service Top Title Typography"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:360
+msgid "Crete service Top Decription Color"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:372
+msgid "Crete service Top Decription Typography"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:380
+msgid "Crete service Main Box "
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:388
+msgid "Crete service Main Box Background Color"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:401
+msgid "Crete service Main Image Style"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:409
+msgid "Crete service Image Background Color"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:419
+msgid "Crete service Image Border Color"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:434
+msgid "Crete service Title Name Style"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:442
+msgid "Crete service Title Name Color"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:453
+msgid "Crete service Title Name Typography"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:462
+msgid "Crete service Decription "
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:470
+msgid "Crete service Decription"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:481
+msgid "Crete service Decription Typography"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:490
+msgid "Crete service Button "
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:498
+msgid "Crete service Button Text Color"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:508
+msgid "Crete service Button Hover Text Color"
+msgstr ""
+
+#: elementor/widgets/crete-service-grid.php:519
+msgid "Crete service Button Typography"
+msgstr ""
+
+#: elementor/widgets/crete-skill-slider.php:22
+#: elementor/widgets/crete-skill-slider.php:41
+msgid "Crete Skill Slider"
+msgstr ""
+
+#: elementor/widgets/crete-skill-slider.php:52
+msgid "Skill Title"
+msgstr ""
+
+#: elementor/widgets/crete-skill-slider.php:64
+msgid "Percent"
+msgstr ""
+
+#: elementor/widgets/crete-skill-slider.php:66
+#: elementor/widgets/crete-skill-slider.php:94
+msgid "90%"
+msgstr ""
+
+#: elementor/widgets/crete-skill-slider.php:93
+msgid "Photoshop"
+msgstr ""
+
+#: elementor/widgets/crete-skill-slider.php:98
+msgid "96%"
+msgstr ""
+
+#: elementor/widgets/crete-team-promo.php:21
+msgid "Crete Team Promo"
+msgstr ""
+
+#: elementor/widgets/crete-team-promo.php:38
+msgid "Promo Left Content"
+msgstr ""
+
+#: elementor/widgets/crete-team-promo.php:45
+msgid "Girl Image"
+msgstr ""
+
+#: elementor/widgets/crete-team-promo.php:55
+msgid "Circle Image"
+msgstr ""
+
+#: elementor/widgets/crete-team-promo.php:66
+msgid "Team Promo Section Content"
+msgstr ""
+
+#: elementor/widgets/crete-team-promo.php:76
+msgid "Our Team Mates"
+msgstr ""
+
+#: elementor/widgets/crete-team-promo.php:86
+msgid "Our Team Provide Great"
+msgstr ""
+
+#: elementor/widgets/crete-team-promo.php:96
+msgid "Service"
+msgstr ""
+
+#: elementor/widgets/crete-team-promo.php:106
+msgid ""
+"Vulputate tincidunt feugiat pharetra primis tortor auctor posuer iaculis "
+"nisl phasellus quam pellentesque quis aliquet, volutpat id risus placerat in "
+"ad cras. Dapibus arcu habitant"
+msgstr ""
+
+#: elementor/widgets/crete-team-promo.php:114
+msgid "Icon Box"
+msgstr ""
+
+#: elementor/widgets/crete-team-promo.php:136
+#: elementor/widgets/crete-team-promo.php:158
+msgid "Research & Development"
+msgstr ""
+
+#: elementor/widgets/crete-team-promo.php:146
+msgid ""
+"Aculis nisl phasellus quam pellentesque quis aliquet, volutpat id risus "
+"placerat in ad cras."
+msgstr ""
+
+#: elementor/widgets/crete-team-promo.php:147
+msgid "Type your Info here"
+msgstr ""
+
+#: elementor/widgets/crete-team-promo.php:153
+#: elementor/widgets/crete-team.php:93
+msgid "Team Member List"
+msgstr ""
+
+#: elementor/widgets/crete-team-promo.php:161
+msgid "Professional Team Mates"
+msgstr ""
+
+#: elementor/widgets/crete-team-promo.php:310
+msgid "Icon Box Style"
+msgstr ""
+
+#: elementor/widgets/crete-team-promo.php:317
+msgid "Icon Style"
+msgstr ""
+
+#: elementor/widgets/crete-team-promo.php:325
+msgid "Icon Color"
+msgstr ""
+
+#: elementor/widgets/crete-team-promo.php:335
+msgid "Icon BG Color"
+msgstr ""
+
+#: elementor/widgets/crete-team-promo.php:345
+msgid "Icon Box Title Style"
+msgstr ""
+
+#: elementor/widgets/crete-team-promo.php:353
+msgid "Icon Box Title Color"
+msgstr ""
+
+#: elementor/widgets/crete-team-promo.php:364
+msgid "Icon Box Title Typography"
+msgstr ""
+
+#: elementor/widgets/crete-team-promo.php:371
+msgid "Icon Box Info Style"
+msgstr ""
+
+#: elementor/widgets/crete-team-promo.php:379
+msgid "Icon Box Info Color"
+msgstr ""
+
+#: elementor/widgets/crete-team-promo.php:390
+msgid "Icon Box Info Typography"
+msgstr ""
+
+#: elementor/widgets/crete-team.php:21
+msgid "Crete Team"
+msgstr ""
+
+#: elementor/widgets/crete-team.php:38
+msgid "Team Section Content"
+msgstr ""
+
+#: elementor/widgets/crete-team.php:48
+msgid "Our Team Members"
+msgstr ""
+
+#: elementor/widgets/crete-team.php:58
+msgid "Meet with our"
+msgstr ""
+
+#: elementor/widgets/crete-team.php:68
+msgid "experts"
+msgstr ""
+
+#: elementor/widgets/crete-team.php:76
+msgid "Team Member"
+msgstr ""
+
+#: elementor/widgets/crete-team.php:84
+msgid "Select Team Member"
+msgstr ""
+
+#: elementor/widgets/crete-team.php:143
+#: elementor/widgets/crete-testimonial.php:371
+msgid "Section BG Color"
+msgstr ""
+
+#: elementor/widgets/crete-team.php:163
+msgid "Section Image Min Width"
+msgstr ""
+
+#: elementor/widgets/crete-team.php:268
+msgid "Team Member Style"
+msgstr ""
+
+#: elementor/widgets/crete-team.php:275
+msgid "Name Style"
+msgstr ""
+
+#: elementor/widgets/crete-team.php:283
+#: elementor/widgets/crete-testimonial.php:656
+msgid "Name Color"
+msgstr ""
+
+#: elementor/widgets/crete-team.php:294
+#: elementor/widgets/crete-testimonial.php:667
+msgid "Name Typography"
+msgstr ""
+
+#: elementor/widgets/crete-team.php:301
+msgid "Name Hover Color"
+msgstr ""
+
+#: elementor/widgets/crete-team.php:311
+msgid "Designation Style"
+msgstr ""
+
+#: elementor/widgets/crete-team.php:319
+#: elementor/widgets/crete-testimonial.php:674
+msgid "Designation Color"
+msgstr ""
+
+#: elementor/widgets/crete-team.php:330
+#: elementor/widgets/crete-testimonial.php:685
+msgid "Designation Typography"
+msgstr ""
+
+#: elementor/widgets/crete-team.php:337
+msgid "Image BG Style"
+msgstr ""
+
+#: elementor/widgets/crete-team.php:345
+msgid "Image BG Color"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:21
+msgid "Crete Testimonial"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:37
+#: elementor/widgets/crete-testimonial.php:566
+msgid "Testimonial Style"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:44
+msgid "Select Testimonial Style"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:59
+msgid "Testimonial Images And Shapes"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:97
+msgid "Section Sub Title"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:100
+msgid "Our Testimonial"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:107
+msgid "Section Title"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:110
+msgid "Customer Feedbacks"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:117
+msgid "Section Description"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:120
+msgid ""
+"Vulputate tincidunt feugiat pharetra primis tortor auctor posuer iaculis "
+"nisl phasellus quam pellentesque"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:130
+msgid "Section Special Text"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:133
+msgid "Customers"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:144
+msgid "Counter Content"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:157
+msgid "1200"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:168
+msgid "Type your Number Suffix here"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:177
+msgid "Full 5 Star review"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:185
+msgid "Review Number Content"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:195
+msgid "Rating Number"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:198
+msgid "4.8"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:205
+msgid "Rating Text"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:208
+msgid "Out of 5 average rating"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:216
+msgid "Testimonial Content"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:224
+msgid "Quote Image 1"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:232
+msgid "Comment"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:234
+msgid ""
+"“Penatibus etlectus quis sapien nibh fringilla varius elemenm blandit dui "
+"miestulum pretium cursusa augue praesent proin justo netus tar vestibulum "
+"taciti fringilla ultrices donec netus luctus mus sapien turpis varius libero "
+"lines”"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:235
+msgid "Input your Comment"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:241
+#: elementor/widgets/one-page/create-op-hero.php:71
+msgid "Author Image"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:251
+msgid "Review Title"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:254
+msgid "\"Creative Designer\""
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:255
+msgid "Revire Title For Style Three"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:261
+msgid "Author Name"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:264
+#: elementor/widgets/crete-testimonial.php:323
+#: elementor/widgets/crete-testimonial.php:329
+msgid "Andrew Smith"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:271
+msgid "Author Designation"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:274
+msgid "CEO at Company"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:281
+msgid "Quote Image 2"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:289
+msgid "Enable Review"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:318
+msgid "Testimonial List"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:325
+#: elementor/widgets/crete-testimonial.php:331
+msgid "Jhon Doe"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:327
+msgid "Faky Lak"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:384
+msgid "Section Sub Heading Style"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:423
+msgid "Section Heading Style"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:464
+msgid "Special Heading Typography"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:488
+msgid "Counter Number Style"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:516
+msgid "Counter Text Color"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:527
+msgid "Counter Review Style"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:537
+msgid "Review Number Color"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:548
+msgid "Review Number Typography"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:555
+msgid "Review Text Color"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:573
+msgid "Testimonial Box BG Color"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:588
+msgid "Testimonial Heading Color"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:602
+msgid "Testimonial Heading Typography"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:612
+msgid "Comment Color"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:624
+msgid "Comment Typography"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:632
+msgid "Comment Bottom Border Color"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:642
+msgid "Review BG Color"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:692
+msgid "Arrow Color"
+msgstr ""
+
+#: elementor/widgets/crete-testimonial.php:707
+msgid "Hover Arrow Color"
+msgstr ""
+
+#: elementor/widgets/crete-title.php:22 elementor/widgets/crete-title.php:41
+msgid "Crete Title"
+msgstr ""
+
+#: elementor/widgets/crete-title.php:52
+msgid "Awesome Experience"
+msgstr ""
+
+#: elementor/widgets/crete-title.php:61
+msgid "My Work Experience"
+msgstr ""
+
+#: elementor/widgets/crete-title.php:67
+msgid "Title Alignment"
+msgstr ""
+
+#: elementor/widgets/crete-title.php:97
+msgid "Title Style"
+msgstr ""
+
+#: elementor/widgets/crete-title.php:124
+msgid "Sub Title Color"
+msgstr ""
+
+#: elementor/widgets/crete-title.php:138
+msgid "Sub Title Typography"
+msgstr ""
+
+#: elementor/widgets/crete-video-box.php:38
+msgid "Video Content"
+msgstr ""
+
+#: elementor/widgets/crete-video-box.php:45
+msgid "Shape Image"
+msgstr ""
+
+#: elementor/widgets/crete-video-box.php:55
+msgid "Video Link"
+msgstr ""
+
+#: elementor/widgets/crete-video-box.php:74
+msgid "Have a Project in Mind?"
+msgstr ""
+
+#: elementor/widgets/crete-video-box.php:81
+msgid "Info"
+msgstr ""
+
+#: elementor/widgets/crete-video-box.php:84
+msgid "Luctus sapien pellentesque arcu fermentum accumsan tempus"
+msgstr ""
+
+#: elementor/widgets/crete-video-box.php:94
+msgid "Make an Appoinment"
+msgstr ""
+
+#: elementor/widgets/crete-video-box.php:95
+msgid "Type your button label here"
+msgstr ""
+
+#: elementor/widgets/crete-video-box.php:156
+msgid "Video Button Style"
+msgstr ""
+
+#: elementor/widgets/crete-video-box.php:163
+msgid "Video Icon Color"
+msgstr ""
+
+#: elementor/widgets/crete-video-box.php:173
+msgid "Video Icon BG Color"
+msgstr ""
+
+#: elementor/widgets/crete-video-box.php:183
+msgid "Video Icon Hover Color"
+msgstr ""
+
+#: elementor/widgets/crete-video-box.php:193
+msgid "Video Icon Hover BG Color"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:22
+msgid "Crete Onepage Hero"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:42
+msgid "Hero Info"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:50
+#: elementor/widgets/one-page/crete-op-about.php:50
+msgid "Section ID"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:53
+#: elementor/widgets/one-page/crete-op-about.php:53
+msgid "home"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:54
+#: elementor/widgets/one-page/crete-op-about.php:54
+msgid "Type your section id here"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:63
+msgid "Left Box Info"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:83
+msgid "hello@crete.design"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:84
+msgid "Type your email here"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:94
+msgid "Based in Frankfurt, DE"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:95
+msgid "Type your address here"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:106
+msgid "facebook"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:114
+msgid "Url"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:139
+msgid "Social Links"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:144
+msgid "Facebook"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:148
+msgid "Twitter"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:161
+msgid "Copyright"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:164
+msgid "© 2023 Crete. All Rights Reserved"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:165
+msgid "Type your copyright text here"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:178
+msgid "Right Box Info"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:189
+msgid "Hello! I am Mason William"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:190
+msgid "Type your subtitle text here"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:200
+msgid "Sr."
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:201
+#: elementor/widgets/one-page/create-op-hero.php:246
+#: elementor/widgets/one-page/create-op-hero.php:269
+msgid "Type your title text here"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:208
+msgid "Typing Title"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:211
+msgid "UI/UX Designer,Web Developer,SEO Specialist"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:212
+msgid "Type your title with comma here"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:222
+msgid ""
+"I am a freelancer based in the United Kingdom and i have been building "
+"noteworthy UX/UI designs and websites for years, which comply with the "
+"latest design trends. I help convert a vision and an idea into meaningful "
+"and useful products."
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:235
+msgid "Right Button Info"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:242
+msgid "Button One Title"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:245
+msgid "Download My CV"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:253
+msgid "Button One URL"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:257
+#: elementor/widgets/one-page/create-op-hero.php:280
+msgid "Type your url here"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:265
+msgid "Button Two Title"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:268
+msgid "Hire Me Now"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:276
+msgid "Button Two URL"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:290
+msgid "Right Counter Info"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:302
+#: elementor/widgets/one-page/create-op-hero.php:349
+msgid "7,695"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:310
+msgid "suffix"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:321
+#: elementor/widgets/one-page/create-op-hero.php:350
+msgid "PROJECT COMPLETED WORLDWIDE"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:353
+msgid "1,259"
+msgstr ""
+
+#: elementor/widgets/one-page/create-op-hero.php:354
+msgid "REACHED MILLION ($) VALUATION"
+msgstr ""
+
+#: elementor/widgets/one-page/crete-op-about.php:22
+msgid "Crete Onepage Section"
+msgstr ""
+
+#: elementor/widgets/one-page/crete-op-about.php:42
+msgid "Section Info"
+msgstr ""
+
+#: elementor/widgets/one-page/crete-op-about.php:61
+msgid "Select Block"
+msgstr ""
+
+#: library/codestar/classes/admin-options.class.php:169
+msgid "Error while saving the changes."
+msgstr ""
+
+#: library/codestar/classes/admin-options.class.php:229
+msgid "Settings successfully imported."
+msgstr ""
+
+#: library/codestar/classes/admin-options.class.php:241
+#: library/codestar/classes/admin-options.class.php:257
+msgid "Default settings restored."
+msgstr ""
+
+#: library/codestar/classes/admin-options.class.php:328
+msgid "Settings saved."
+msgstr ""
+
+#: library/codestar/classes/admin-options.class.php:509
+msgid "You have unsaved changes, save your changes!"
+msgstr ""
+
+#: library/codestar/classes/admin-options.class.php:511
+msgid "show all settings"
+msgstr ""
+
+#: library/codestar/classes/admin-options.class.php:513
+#: library/codestar/fields/icon/icon.php:57
+#: library/codestar/fields/map/map.php:23
+msgid "Search..."
+msgstr ""
+
+#: library/codestar/classes/admin-options.class.php:516
+#: library/codestar/classes/admin-options.class.php:639
+msgid "Save"
+msgstr ""
+
+#: library/codestar/classes/admin-options.class.php:516
+#: library/codestar/classes/admin-options.class.php:639
+msgid "Saving..."
+msgstr ""
+
+#: library/codestar/classes/admin-options.class.php:517
+#: library/codestar/classes/admin-options.class.php:640
+msgid "Reset Section"
+msgstr ""
+
+#: library/codestar/classes/admin-options.class.php:517
+#: library/codestar/classes/admin-options.class.php:640
+msgid "Are you sure to reset this section options?"
+msgstr ""
+
+#: library/codestar/classes/admin-options.class.php:518
+#: library/codestar/classes/admin-options.class.php:641
+msgid "Reset All"
+msgstr ""
+
+#: library/codestar/classes/admin-options.class.php:518
+#: library/codestar/classes/admin-options.class.php:641
+#: library/codestar/classes/comment-options.class.php:201
+#: library/codestar/classes/metabox-options.class.php:280
+#: library/codestar/fields/backup/backup.php:31
+msgid "Reset"
+msgstr ""
+
+#: library/codestar/classes/admin-options.class.php:518
+#: library/codestar/classes/admin-options.class.php:641
+msgid "Are you sure you want to reset all settings to default values?"
+msgstr ""
+
+#: library/codestar/classes/admin-options.class.php:616
+#: library/codestar/classes/comment-options.class.php:184
+#: library/codestar/classes/metabox-options.class.php:263
+#: library/codestar/fields/button_set/button_set.php:56
+#: library/codestar/fields/checkbox/checkbox.php:82
+#: library/codestar/fields/radio/radio.php:75
+#: library/codestar/fields/select/select.php:113
+#: library/codestar/functions/actions.php:41
+msgid "No data available."
+msgstr ""
+
+#: library/codestar/classes/comment-options.class.php:202
+#: library/codestar/classes/metabox-options.class.php:281
+msgid "update post"
+msgstr ""
+
+#: library/codestar/classes/comment-options.class.php:202
+#: library/codestar/classes/metabox-options.class.php:281
+msgid "Cancel"
+msgstr ""
+
+#: library/codestar/classes/setup.class.php:606
+msgid "Are you sure?"
+msgstr ""
+
+#: library/codestar/classes/setup.class.php:607
+#, php-format
+msgid "Please enter %s or more characters"
+msgstr ""
+
+#: library/codestar/classes/setup.class.php:608
+msgid "Searching..."
+msgstr ""
+
+#: library/codestar/classes/setup.class.php:609
+msgid "No results found."
+msgstr ""
+
+#: library/codestar/classes/setup.class.php:710
+msgid "Oops! Not allowed."
+msgstr ""
+
+#: library/codestar/classes/setup.class.php:778
+#: library/codestar/classes/setup.class.php:782
+msgid "Field not found!"
+msgstr ""
+
+#: library/codestar/classes/shortcode-options.class.php:210
+#: library/codestar/fields/group/group.php:23 library/crete-cpt.php:49
+#: library/crete-cpt.php:358 library/crete-cpt.php:417
+msgid "Add New"
+msgstr ""
+
+#: library/codestar/classes/shortcode-options.class.php:247
+#: library/codestar/functions/actions.php:16
+#: library/codestar/functions/actions.php:68
+#: library/codestar/functions/actions.php:106
+#: library/codestar/functions/actions.php:141
+#: library/codestar/functions/actions.php:170
+msgid "Error: Invalid nonce verification."
+msgstr ""
+
+#: library/codestar/fields/background/background.php:36
+#: library/codestar/fields/media/media.php:59
+msgid "Not selected"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:72
+#: library/codestar/fields/date/date.php:31
+#: library/codestar/fields/datetime/datetime.php:36
+msgid "From"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:90
+#: library/codestar/fields/date/date.php:32
+#: library/codestar/fields/datetime/datetime.php:37
+msgid "To"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:108
+msgid "Direction"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:114
+msgid "Gradient Direction"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:115
+msgid "&#8659; top to bottom"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:116
+msgid "&#8658; left to right"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:117
+msgid "&#8664; corner top to right"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:118
+msgid "&#8665; corner top to left"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:161
+msgid "Background Position"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:162
+msgid "Left Top"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:163
+msgid "Left Center"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:164
+msgid "Left Bottom"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:165
+msgid "Center Top"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:166
+msgid "Center Center"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:167
+msgid "Center Bottom"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:168
+msgid "Right Top"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:169
+msgid "Right Center"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:170
+msgid "Right Bottom"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:184
+msgid "Background Repeat"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:185
+msgid "Repeat"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:186
+msgid "No Repeat"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:187
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:188
+msgid "Repeat Vertically"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:202
+msgid "Background Attachment"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:203
+msgid "Scroll"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:204
+msgid "Fixed"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:218
+msgid "Background Size"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:219
+msgid "Cover"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:220
+msgid "Contain"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:221
+msgid "Auto"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:235
+msgid "Background Origin"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:236
+#: library/codestar/fields/background/background.php:254
+msgid "Padding Box"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:237
+#: library/codestar/fields/background/background.php:253
+msgid "Border Box"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:238
+#: library/codestar/fields/background/background.php:255
+msgid "Content Box"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:252
+msgid "Background Clip"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:269
+msgid "Background Blend Mode"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:271
+msgid "Multiply"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:272
+msgid "Screen"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:273
+msgid "Overlay"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:274
+msgid "Darken"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:275
+msgid "Lighten"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:276
+msgid "Color Dodge"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:277
+msgid "Saturation"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:279
+msgid "Luminosity"
+msgstr ""
+
+#: library/codestar/fields/backup/backup.php:26
+msgid "Import"
+msgstr ""
+
+#: library/codestar/fields/backup/backup.php:29
+msgid "Export & Download"
+msgstr ""
+
+#: library/codestar/fields/border/border.php:25
+#: library/codestar/fields/spacing/spacing.php:25
+msgid "top"
+msgstr ""
+
+#: library/codestar/fields/border/border.php:26
+#: library/codestar/fields/spacing/spacing.php:26
+msgid "right"
+msgstr ""
+
+#: library/codestar/fields/border/border.php:27
+#: library/codestar/fields/spacing/spacing.php:27
+msgid "bottom"
+msgstr ""
+
+#: library/codestar/fields/border/border.php:28
+#: library/codestar/fields/spacing/spacing.php:28
+msgid "left"
+msgstr ""
+
+#: library/codestar/fields/border/border.php:29
+#: library/codestar/fields/spacing/spacing.php:29
+msgid "all"
+msgstr ""
+
+#: library/codestar/fields/border/border.php:51
+#: library/codestar/fields/typography/typography.php:214
+msgid "Solid"
+msgstr ""
+
+#: library/codestar/fields/border/border.php:52
+#: library/codestar/fields/typography/typography.php:217
+msgid "Dashed"
+msgstr ""
+
+#: library/codestar/fields/border/border.php:53
+#: library/codestar/fields/typography/typography.php:216
+msgid "Dotted"
+msgstr ""
+
+#: library/codestar/fields/border/border.php:54
+#: library/codestar/fields/typography/typography.php:215
+msgid "Double"
+msgstr ""
+
+#: library/codestar/fields/border/border.php:55
+msgid "Inset"
+msgstr ""
+
+#: library/codestar/fields/border/border.php:56
+msgid "Outset"
+msgstr ""
+
+#: library/codestar/fields/border/border.php:57
+msgid "Groove"
+msgstr ""
+
+#: library/codestar/fields/border/border.php:58
+msgid "ridge"
+msgstr ""
+
+#: library/codestar/fields/checkbox/checkbox.php:23
+msgid "Check/Uncheck All"
+msgstr ""
+
+#: library/codestar/fields/dimensions/dimensions.php:22
+msgid "width"
+msgstr ""
+
+#: library/codestar/fields/dimensions/dimensions.php:23
+msgid "height"
+msgstr ""
+
+#: library/codestar/fields/gallery/gallery.php:20
+msgid "Add Gallery"
+msgstr ""
+
+#: library/codestar/fields/gallery/gallery.php:21
+msgid "Edit Gallery"
+msgstr ""
+
+#: library/codestar/fields/gallery/gallery.php:22
+msgid "Clear"
+msgstr ""
+
+#: library/codestar/fields/group/group.php:41
+#: library/codestar/fields/repeater/repeater.php:27
+msgid "Error: Field ID conflict."
+msgstr ""
+
+#: library/codestar/fields/group/group.php:52
+#: library/codestar/fields/group/group.php:107
+#: library/codestar/fields/repeater/repeater.php:48
+#: library/codestar/fields/repeater/repeater.php:76
+msgid "Are you sure to delete this item?"
+msgstr ""
+
+#: library/codestar/fields/group/group.php:141
+#: library/codestar/fields/repeater/repeater.php:89
+msgid "You cannot add more."
+msgstr ""
+
+#: library/codestar/fields/group/group.php:142
+#: library/codestar/fields/repeater/repeater.php:90
+msgid "You cannot remove more."
+msgstr ""
+
+#: library/codestar/fields/icon/icon.php:20
+#: library/codestar/fields/icon/icon.php:53
+msgid "Add Icon"
+msgstr ""
+
+#: library/codestar/fields/icon/icon.php:21
+msgid "Remove Icon"
+msgstr ""
+
+#: library/codestar/fields/link/link.php:20
+msgid "Add Link"
+msgstr ""
+
+#: library/codestar/fields/link/link.php:21
+msgid "Edit Link"
+msgstr ""
+
+#: library/codestar/fields/link/link.php:22
+msgid "Remove Link"
+msgstr ""
+
+#: library/codestar/fields/link_color/link_color.php:38
+#: library/theme-options/extends/custom-color-group.php:38
+msgid "Active"
+msgstr ""
+
+#: library/codestar/fields/link_color/link_color.php:39
+#: library/theme-options/extends/custom-color-group.php:39
+msgid "Visited"
+msgstr ""
+
+#: library/codestar/fields/link_color/link_color.php:40
+#: library/theme-options/extends/custom-color-group.php:40
+msgid "Focus"
+msgstr ""
+
+#: library/codestar/fields/map/map.php:24
+msgid "Latitude"
+msgstr ""
+
+#: library/codestar/fields/map/map.php:25
+msgid "Longitude"
+msgstr ""
+
+#: library/codestar/fields/media/media.php:25
+#: library/codestar/fields/upload/upload.php:24
+msgid "Upload"
+msgstr ""
+
+#: library/codestar/fields/media/media.php:26
+#: library/codestar/fields/upload/upload.php:25
+msgid "Remove"
+msgstr ""
+
+#: library/codestar/fields/sorter/sorter.php:21
+msgid "Enabled"
+msgstr ""
+
+#: library/codestar/fields/sorter/sorter.php:22
+#: library/crete-nav-options.php:189
+msgid "Disabled"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:96
+msgid "Font Family"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:97
+msgid "Select a font"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:105
+msgid "Backup Font Family"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:130
+msgid "Font Style"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:144
+#: library/codestar/fields/typography/typography.php:145
+msgid "Load Extra Styles"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:158
+msgid "Subset"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:168
+msgid "Text Align"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:170
+msgid "Inherit"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:174
+msgid "Justify"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:175
+msgid "Initial"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:184
+msgid "Font Variant"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:187
+msgid "Small Caps"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:188
+msgid "All Small Caps"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:197
+msgid "Text Transform"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:200
+msgid "Capitalize"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:201
+msgid "Uppercase"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:202
+msgid "Lowercase"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:211
+msgid "Text Decoration"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:218
+msgid "Wavy"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:219
+msgid "Overline"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:220
+msgid "Line-through"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:233
+msgid "Font Size"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:245
+msgid "Line Height"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:257
+msgid "Letter Spacing"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:269
+msgid "Word Spacing"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:284
+msgid "Font Color"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:295
+msgid "Custom Style"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:362
+msgid "Custom Web Fonts"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:368
+msgid "Safe Web Fonts"
+msgstr ""
+
+#: library/codestar/fields/typography/typography.php:388
+msgid "Google Web Fonts"
+msgstr ""
+
+#: library/codestar/functions/actions.php:72
+#: library/codestar/functions/actions.php:110
+msgid "Error: Invalid key."
+msgstr ""
+
+#: library/codestar/functions/actions.php:114
+msgid "Error: The response is not a valid JSON response."
+msgstr ""
+
+#: library/codestar/functions/actions.php:174
+msgid "Error: Invalid term ID."
+msgstr ""
+
+#: library/codestar/functions/actions.php:180
+msgid "Error: You do not have permission to do that."
+msgstr ""
+
+#: library/codestar/functions/validate.php:14
+#: library/codestar/functions/validate.php:86
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: library/codestar/functions/validate.php:32
+#: library/codestar/functions/validate.php:106
+msgid "Please enter a valid number."
+msgstr ""
+
+#: library/codestar/functions/validate.php:50
+#: library/codestar/functions/validate.php:126
+msgid "This field is required."
+msgstr ""
+
+#: library/codestar/functions/validate.php:68
+#: library/codestar/functions/validate.php:146
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: library/crete-cpt.php:6
+msgctxt "taxonomy general name"
+msgid "Departments"
+msgstr ""
+
+#: library/crete-cpt.php:7
+msgctxt "taxonomy singular name"
+msgid "Department"
+msgstr ""
+
+#: library/crete-cpt.php:8
+msgid "Search Departments"
+msgstr ""
+
+#: library/crete-cpt.php:9
+msgid "All Departments"
+msgstr ""
+
+#: library/crete-cpt.php:10
+msgid "Parent Department"
+msgstr ""
+
+#: library/crete-cpt.php:11
+msgid "Parent Department:"
+msgstr ""
+
+#: library/crete-cpt.php:12
+msgid "Edit Department"
+msgstr ""
+
+#: library/crete-cpt.php:13
+msgid "Update Department"
+msgstr ""
+
+#: library/crete-cpt.php:14
+msgid "Add New Department"
+msgstr ""
+
+#: library/crete-cpt.php:15
+msgid "New Department Name"
+msgstr ""
+
+#: library/crete-cpt.php:16
+msgid "Department"
+msgstr ""
+
+#: library/crete-cpt.php:40
+msgctxt "Post Type General Name"
+msgid "Teams"
+msgstr ""
+
+#: library/crete-cpt.php:41
+msgctxt "Post Type Singular Name"
+msgid "Team"
+msgstr ""
+
+#: library/crete-cpt.php:42
+msgctxt "Admin Menu text"
+msgid "Teams"
+msgstr ""
+
+#: library/crete-cpt.php:43
+msgctxt "Add New on Toolbar"
+msgid "Team"
+msgstr ""
+
+#: library/crete-cpt.php:44
+msgid "Team Archives"
+msgstr ""
+
+#: library/crete-cpt.php:45
+msgid "Team Attributes"
+msgstr ""
+
+#: library/crete-cpt.php:46
+msgid "Parent Team:"
+msgstr ""
+
+#: library/crete-cpt.php:47
+msgid "All Teams"
+msgstr ""
+
+#: library/crete-cpt.php:48
+msgid "Add New Team"
+msgstr ""
+
+#: library/crete-cpt.php:50
+msgid "New Team"
+msgstr ""
+
+#: library/crete-cpt.php:51
+msgid "Edit Team"
+msgstr ""
+
+#: library/crete-cpt.php:52
+msgid "Update Team"
+msgstr ""
+
+#: library/crete-cpt.php:53
+msgid "View Team"
+msgstr ""
+
+#: library/crete-cpt.php:54
+msgid "View Teams"
+msgstr ""
+
+#: library/crete-cpt.php:55
+msgid "Search Team"
+msgstr ""
+
+#: library/crete-cpt.php:56 library/crete-cpt.php:152 library/crete-cpt.php:365
+#: library/crete-cpt.php:424
+msgid "Not found"
+msgstr ""
+
+#: library/crete-cpt.php:57 library/crete-cpt.php:153 library/crete-cpt.php:366
+#: library/crete-cpt.php:425
+msgid "Not found in Trash"
+msgstr ""
+
+#: library/crete-cpt.php:59 library/crete-cpt.php:155 library/crete-cpt.php:368
+#: library/crete-cpt.php:427
+msgid "Set featured image"
+msgstr ""
+
+#: library/crete-cpt.php:60 library/crete-cpt.php:156 library/crete-cpt.php:369
+#: library/crete-cpt.php:428
+msgid "Remove featured image"
+msgstr ""
+
+#: library/crete-cpt.php:61 library/crete-cpt.php:157 library/crete-cpt.php:370
+#: library/crete-cpt.php:429
+msgid "Use as featured image"
+msgstr ""
+
+#: library/crete-cpt.php:62
+msgid "Insert into Team"
+msgstr ""
+
+#: library/crete-cpt.php:63
+msgid "Uploaded to this Team"
+msgstr ""
+
+#: library/crete-cpt.php:64
+msgid "Teams list"
+msgstr ""
+
+#: library/crete-cpt.php:65
+msgid "Teams list navigation"
+msgstr ""
+
+#: library/crete-cpt.php:66
+msgid "Filter Teams list"
+msgstr ""
+
+#: library/crete-cpt.php:136
+msgctxt "Post Type General Name"
+msgid "Crete Blocks"
+msgstr ""
+
+#: library/crete-cpt.php:137
+msgctxt "Post Type Singular Name"
+msgid "Crete Block"
+msgstr ""
+
+#: library/crete-cpt.php:138
+msgctxt "Admin Menu text"
+msgid "Crete Block"
+msgstr ""
+
+#: library/crete-cpt.php:139
+msgctxt "Add New on Toolbar"
+msgid "Crete Block"
+msgstr ""
+
+#: library/crete-cpt.php:140
+msgid "Block Archives"
+msgstr ""
+
+#: library/crete-cpt.php:141
+msgid "Block Attributes"
+msgstr ""
+
+#: library/crete-cpt.php:142
+msgid "Parent crete_block:"
+msgstr ""
+
+#: library/crete-cpt.php:143
+msgid "Crete Blocks"
+msgstr ""
+
+#: library/crete-cpt.php:144 library/crete-cpt.php:145
+msgid "Add New Block"
+msgstr ""
+
+#: library/crete-cpt.php:146
+msgid "New Block"
+msgstr ""
+
+#: library/crete-cpt.php:147
+msgid "Edit Block"
+msgstr ""
+
+#: library/crete-cpt.php:148
+msgid "Update Block"
+msgstr ""
+
+#: library/crete-cpt.php:149 library/crete-cpt.php:150
+msgid "View Block"
+msgstr ""
+
+#: library/crete-cpt.php:151
+msgid "Search Block"
+msgstr ""
+
+#: library/crete-cpt.php:158
+msgid "Insert into Block"
+msgstr ""
+
+#: library/crete-cpt.php:159
+msgid "Uploaded to this Block"
+msgstr ""
+
+#: library/crete-cpt.php:160
+msgid "Block list"
+msgstr ""
+
+#: library/crete-cpt.php:161
+msgid "Block list navigation"
+msgstr ""
+
+#: library/crete-cpt.php:162
+msgid "Filter Block list"
+msgstr ""
+
+#: library/crete-cpt.php:165
+msgid "Block"
+msgstr ""
+
+#: library/crete-cpt.php:193
+msgid "Shortcode"
+msgstr ""
+
+#: library/crete-cpt.php:194
+msgid "Date"
+msgstr ""
+
+#: library/crete-cpt.php:349
+msgctxt "Post Type General Name"
+msgid "Pricing Tables"
+msgstr ""
+
+#: library/crete-cpt.php:350
+msgctxt "Post Type Singular Name"
+msgid "Pricing Table"
+msgstr ""
+
+#: library/crete-cpt.php:351
+msgctxt "Admin Menu text"
+msgid "Pricing Tables"
+msgstr ""
+
+#: library/crete-cpt.php:352
+msgctxt "Add New on Toolbar"
+msgid "Pricing Table"
+msgstr ""
+
+#: library/crete-cpt.php:353
+msgid "Pricing Table Archives"
+msgstr ""
+
+#: library/crete-cpt.php:354
+msgid "Pricing Table Attributes"
+msgstr ""
+
+#: library/crete-cpt.php:355
+msgid "Parent Pricing Table:"
+msgstr ""
+
+#: library/crete-cpt.php:356
+msgid "All Pricing Tables"
+msgstr ""
+
+#: library/crete-cpt.php:357
+msgid "Add New Pricing Table"
+msgstr ""
+
+#: library/crete-cpt.php:359
+msgid "New Pricing Table"
+msgstr ""
+
+#: library/crete-cpt.php:360
+msgid "Edit Pricing Table"
+msgstr ""
+
+#: library/crete-cpt.php:361
+msgid "Update Pricing Table"
+msgstr ""
+
+#: library/crete-cpt.php:362
+msgid "View Pricing Table"
+msgstr ""
+
+#: library/crete-cpt.php:363
+msgid "View Pricing Tables"
+msgstr ""
+
+#: library/crete-cpt.php:364
+msgid "Search Pricing Table"
+msgstr ""
+
+#: library/crete-cpt.php:371
+msgid "Insert into Pricing Table"
+msgstr ""
+
+#: library/crete-cpt.php:372
+msgid "Uploaded to this Pricing Table"
+msgstr ""
+
+#: library/crete-cpt.php:373
+msgid "Pricing Tables list"
+msgstr ""
+
+#: library/crete-cpt.php:374
+msgid "Pricing Tables list navigation"
+msgstr ""
+
+#: library/crete-cpt.php:375
+msgid "Filter Pricing Tables list"
+msgstr ""
+
+#: library/crete-cpt.php:378
+msgid "Pricing Table"
+msgstr ""
+
+#: library/crete-cpt.php:408
+msgctxt "Post Type General Name"
+msgid "Projects"
+msgstr ""
+
+#: library/crete-cpt.php:409
+msgctxt "Post Type Singular Name"
+msgid "Project"
+msgstr ""
+
+#: library/crete-cpt.php:410
+msgctxt "Admin Menu text"
+msgid "Projects"
+msgstr ""
+
+#: library/crete-cpt.php:411
+msgctxt "Add New on Toolbar"
+msgid "Project"
+msgstr ""
+
+#: library/crete-cpt.php:412
+msgid "Project Archives"
+msgstr ""
+
+#: library/crete-cpt.php:413
+msgid "Project Attributes"
+msgstr ""
+
+#: library/crete-cpt.php:414
+msgid "Parent Project:"
+msgstr ""
+
+#: library/crete-cpt.php:415
+msgid "All Projects"
+msgstr ""
+
+#: library/crete-cpt.php:416
+msgid "Add New Project"
+msgstr ""
+
+#: library/crete-cpt.php:418
+msgid "New Project"
+msgstr ""
+
+#: library/crete-cpt.php:419
+msgid "Edit Project"
+msgstr ""
+
+#: library/crete-cpt.php:420
+msgid "Update Project"
+msgstr ""
+
+#: library/crete-cpt.php:421
+msgid "View Project"
+msgstr ""
+
+#: library/crete-cpt.php:422
+msgid "View Projects"
+msgstr ""
+
+#: library/crete-cpt.php:423
+msgid "Search Project"
+msgstr ""
+
+#: library/crete-cpt.php:430
+msgid "Insert into Project"
+msgstr ""
+
+#: library/crete-cpt.php:431
+msgid "Uploaded to this Project"
+msgstr ""
+
+#: library/crete-cpt.php:432
+msgid "Projects list"
+msgstr ""
+
+#: library/crete-cpt.php:433
+msgid "Projects list navigation"
+msgstr ""
+
+#: library/crete-cpt.php:434
+msgid "Filter Projects list"
+msgstr ""
+
+#: library/crete-cpt.php:437
+msgid "Project"
+msgstr ""
+
+#: library/crete-cpt.php:465
+msgctxt "taxonomy general name"
+msgid "Project Categories"
+msgstr ""
+
+#: library/crete-cpt.php:466
+msgctxt "taxonomy singular name"
+msgid "Project Category"
+msgstr ""
+
+#: library/crete-cpt.php:467
+msgid "Search Project Categories"
+msgstr ""
+
+#: library/crete-cpt.php:468
+msgid "All Project Categories"
+msgstr ""
+
+#: library/crete-cpt.php:469
+msgid "Parent Project Category"
+msgstr ""
+
+#: library/crete-cpt.php:470
+msgid "Parent Project Category:"
+msgstr ""
+
+#: library/crete-cpt.php:471
+msgid "Edit Project Category"
+msgstr ""
+
+#: library/crete-cpt.php:472
+msgid "Update Project Category"
+msgstr ""
+
+#: library/crete-cpt.php:473
+msgid "Add New Project Category"
+msgstr ""
+
+#: library/crete-cpt.php:474
+msgid "New Project Category Name"
+msgstr ""
+
+#: library/crete-cpt.php:475
+msgid "Project Category"
+msgstr ""
+
+#: library/crete-nav-options.php:40
+msgid "Blue"
+msgstr ""
+
+#: library/crete-nav-options.php:41
+msgid "Red"
+msgstr ""
+
+#: library/crete-nav-options.php:42
+msgid "Brown"
+msgstr ""
+
+#: library/crete-nav-options.php:43
+msgid "Yellow"
+msgstr ""
+
+#: library/crete-nav-options.php:44
+msgid "Green"
+msgstr ""
+
+#: library/crete-nav-options.php:45
+msgid "Black"
+msgstr ""
+
+#: library/crete-nav-options.php:46
+msgid "Grey"
+msgstr ""
+
+#: library/crete-nav-options.php:47
+msgid "Aqua"
+msgstr ""
+
+#: library/crete-nav-options.php:48
+msgid "Purple"
+msgstr ""
+
+#: library/crete-nav-options.php:49
+msgid "Olive"
+msgstr ""
+
+#: library/crete-nav-options.php:160
+msgid "Small"
+msgstr ""
+
+#: library/crete-nav-options.php:172
+#, php-format
+msgid "2 Columns (~16% of Mega menu)"
+msgstr ""
+
+#: library/crete-nav-options.php:173
+#, php-format
+msgid "3 Columns (25% of Mega menu)"
+msgstr ""
+
+#: library/crete-nav-options.php:174
+#, php-format
+msgid "4 Columns (~33% of Mega menu)"
+msgstr ""
+
+#: library/crete-nav-options.php:175
+#, php-format
+msgid "6 Columns (50% of Mega menu)"
+msgstr ""
+
+#: library/crete-nav-options.php:176
+#, php-format
+msgid "12 Columns (100% of Mega menu)"
+msgstr ""
+
+#: library/crete-nav-options.php:191
+msgid "Top"
+msgstr ""
+
+#: library/crete-nav-options.php:192
+msgid "Right & Top"
+msgstr ""
+
+#: library/crete-nav-options.php:241
+msgid "No Padding"
+msgstr ""
+
+#: library/crete-nav-options.php:243
+msgid "With padding"
+msgstr ""
+
+#: library/crete-nav-options.php:244
+msgid "With padding (No padding top)"
+msgstr ""
+
+#: library/extension/crete-live-search/product-search.php:15
+msgid "No products found"
+msgstr ""
+
+#: library/extension/crete-live-search/product-search.php:77
+msgid "No categories."
+msgstr ""
+
+#: library/extension/crete-live-search/product-search.php:266
+msgid "All Categories"
+msgstr ""
+
+#: library/extension/crete-live-search/product-search.php:273
+msgid "Search for Product..."
+msgstr ""
+
+#: library/extension/sp-night-mode/admin/class-sp-night-mode-admin.php:209
+msgid "Night Mode"
+msgstr ""
+
+#: library/extension/sp-night-mode/admin/class-sp-night-mode-admin.php:210
+msgid ""
+"If you want to change color in some other elements you can use the "
+"Additional CSS field. CSS example: body.sp-night-mode-on .element-class "
+"{ color: #000; }"
+msgstr ""
+
+#: library/extension/sp-night-mode/admin/class-sp-night-mode-admin.php:225
+msgid "Night Mode as Default"
+msgstr ""
+
+#: library/extension/sp-night-mode/admin/class-sp-night-mode-admin.php:299
+msgid "Toggle Style"
+msgstr ""
+
+#: library/extension/sp-night-mode/admin/class-sp-night-mode-admin.php:364
+msgid "Body Background"
+msgstr ""
+
+#: library/extension/sp-night-mode/admin/class-sp-night-mode-admin.php:382
+msgid "Alternative Background"
+msgstr ""
+
+#: library/extension/sp-night-mode/admin/class-sp-night-mode-admin.php:416
+msgid "Link Color"
+msgstr ""
+
+#: library/extension/sp-night-mode/admin/class-sp-night-mode-admin.php:433
+msgid "Link Hover Color"
+msgstr ""
+
+#: library/extension/woo-quick-view/templates/xpcqv-button.php:6
+msgid "Quick View"
+msgstr ""
+
+#: library/extension/woo-quick-view/templates/xpcqv-product.php:34
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: library/extension/woo-quick-view/templates/xpcqv-product.php:34
+msgid "out of 5"
+msgstr ""
+
+#: library/extension/woo-quick-view/templates/xpcqv-product.php:46
+msgid "Categories: "
+msgstr ""
+
+#: library/extension/woo-quick-view/templates/xpcqv-product.php:50
+msgid "Tags: "
+msgstr ""
+
+#: library/extension/woo-quick-view/templates/xpcqv-product.php:54
+msgid "Sku: "
+msgstr ""
+
+#: library/extension/woo-sale-countdown/woo-sale-countdown.php:401
+msgid "Only<span class=\"xpsc-stock-number\" > "
+msgstr ""
+
+#: library/license/Crete.php:66 library/license/Crete.php:173
+msgid "Welcome to Crete"
+msgstr ""
+
+#: library/license/Crete.php:68 library/license/Crete.php:175
+msgid "crete theme is now installed and ready to use!"
+msgstr ""
+
+#: library/license/Crete.php:78 library/license/Crete.php:183
+msgid "Welcome"
+msgstr ""
+
+#: library/license/Crete.php:79 library/license/Crete.php:184
+msgid "Theme Options"
+msgstr ""
+
+#: library/license/Crete.php:80 library/license/Crete.php:185
+msgid "License"
+msgstr ""
+
+#: library/license/Crete.php:82 library/license/Crete.php:187
+msgid "Demo Import"
+msgstr ""
+
+#: library/license/Crete.php:90
+msgid "Crete License Information"
+msgstr ""
+
+#: library/license/Crete.php:95
+msgid "Status"
+msgstr ""
+
+#: library/license/Crete.php:98
+msgid "Valid"
+msgstr ""
+
+#: library/license/Crete.php:100
+msgid "Invalid"
+msgstr ""
+
+#: library/license/Crete.php:107
+msgid "License Type"
+msgstr ""
+
+#: library/license/Crete.php:114
+msgid "License Expired on"
+msgstr ""
+
+#: library/license/Crete.php:131
+msgid "Support Expired on"
+msgstr ""
+
+#: library/license/Crete.php:153
+msgid "Your License Key"
+msgstr ""
+
+#: library/license/Crete.php:194
+msgid "Theme Purchase Code"
+msgstr ""
+
+#: library/license/Crete.php:207
+msgid "License code"
+msgstr ""
+
+#: library/license/Crete.php:211
+msgid "Email Address"
+msgstr ""
+
+#: library/license/Crete.php:216
+msgid ""
+"We will send update news of this product by this email address, don't worry, "
+"we hate spam"
+msgstr ""
+
+#: library/license/CreteBase.php:85
+msgid "Update Checking.."
+msgstr ""
+
+#: library/theme-options/extras/extras.php:57
+msgid "Upload Custom Fonts"
+msgstr ""
+
+#: library/theme-options/extras/extras.php:58
+msgid "Add New Custom Font"
+msgstr ""
+
+#: library/theme-options/extras/extras.php:59
+msgid "Adding New Font"
+msgstr ""
+
+#: library/theme-options/extras/extras.php:61
+msgid ""
+"It is simple. Only add your custom fonts and click to save. After you can "
+"check \"Font Family\" selector. Do not forget to Save!"
+msgstr ""
+
+#: library/theme-options/extras/extras.php:67
+msgid "Font-Family Name"
+msgstr ""
+
+#: library/theme-options/extras/extras.php:69
+msgid "for eg. Arial"
+msgstr ""
+
+#: library/theme-options/extras/extras.php:76
+msgid "Upload .ttf <small><i>(optional)</i></small>"
+msgstr ""
+
+#: library/theme-options/extras/extras.php:79
+#: library/theme-options/extras/extras.php:90
+#: library/theme-options/extras/extras.php:101
+#: library/theme-options/extras/extras.php:112
+#: library/theme-options/extras/extras.php:123
+msgid "Use this Font-Format"
+msgstr ""
+
+#: library/theme-options/extras/extras.php:80
+msgid "Upload <i>.ttf</i>"
+msgstr ""
+
+#: library/theme-options/extras/extras.php:87
+msgid "Upload .eot <small><i>(optional)</i></small>"
+msgstr ""
+
+#: library/theme-options/extras/extras.php:91
+msgid "Upload <i>.eot</i>"
+msgstr ""
+
+#: library/theme-options/extras/extras.php:98
+msgid "Upload .svg <small><i>(optional)</i></small>"
+msgstr ""
+
+#: library/theme-options/extras/extras.php:102
+msgid "Upload <i>.svg</i>"
+msgstr ""
+
+#: library/theme-options/extras/extras.php:109
+msgid "Upload .otf <small><i>(optional)</i></small>"
+msgstr ""
+
+#: library/theme-options/extras/extras.php:113
+msgid "Upload <i>.otf</i>"
+msgstr ""
+
+#: library/theme-options/extras/extras.php:120
+msgid "Upload .woff <small><i>(optional)</i></small>"
+msgstr ""
+
+#: library/theme-options/extras/extras.php:124
+msgid "Upload <i>.woff</i>"
+msgstr ""
+
+#: library/theme-options/extras/extras.php:131
+msgid "Extra CSS Style <small><i>(optional)</i></small>"
+msgstr ""
+
+#: library/theme-options/extras/extras.php:133
+msgid "for eg. font-weight: normal;"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Crete Core"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "teconce.com/crete-core"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This is the core plugin for crete theme."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "teconce.com"
+msgstr ""
